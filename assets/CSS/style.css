@@ -1,39 +1,76 @@
-.home-nav {
-    background-color: blue;
-    text-align: center;
-    margin: 5px;
+
+nav ul li {
+    padding: 20px 15px;
+    font-weight: bold;
+    font-size: 18px;
 }
 
-.gallery-nav {
-    background-color: red;
-    text-align: center;
+.home-nav {
+    background-color: aqua;
 }
 
 .about-nav {
-    background-color: green;
+    background-color: aquamarine;
+}
+
+.gallery-nav {
+    background-color: beige;
+}
+
+.contact-nav {
+    background-color: blue;
+}
+
+.nav-menu-right {
+    text-align: right;
+}
+
+
+
+
+.heading-one {
+    text-align: center;
+    padding-top: 15px;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+.contact-information {
+    text-align: center;
+    font-size: small;
+}
+
+.contact-bg-colour-above {
+    background-color: azure;
+    width: 100%;
+    padding-bottom: 15px;
+}
+
+.contact-bg-colour-below {
+    background-color: blueviolet;
+    width:100%;
+    padding-bottom: 15px;
+
+}
+
+
+
+
+.hero-container {
+    background-image: none;
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+    width:100%;
+}
+
+.about-information {
+    background-color: red;
+    padding-bottom: 15px;
+    width:100%; 
     text-align: center;
 }
-
-.contact-nav{
-    background: purple;
-    text-align: center; 
-}
-
-.list-inline-item:not(:last-child) {
-    margin:0; 
-}
-
-.nav-bar {
-    display: inline-block;
-}
-
-.menucontainer {
-    font-size:0; 
-}
-
-#nav li {
-    font-size: 18px;
-    padding: 15px 20px; 
-}
-
- 
