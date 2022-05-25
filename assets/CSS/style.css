@@ -1,0 +1,39 @@
+.home-nav {
+    background-color: blue;
+    text-align: center;
+    margin: 5px;
+}
+
+.gallery-nav {
+    background-color: red;
+    text-align: center;
+}
+
+.about-nav {
+    background-color: green;
+    text-align: center;
+}
+
+.contact-nav{
+    background: purple;
+    text-align: center; 
+}
+
+.list-inline-item:not(:last-child) {
+    margin:0; 
+}
+
+.nav-bar {
+    display: inline-block;
+}
+
+.menucontainer {
+    font-size:0; 
+}
+
+#nav li {
+    font-size: 18px;
+    padding: 15px 20px; 
+}
+
+ 
