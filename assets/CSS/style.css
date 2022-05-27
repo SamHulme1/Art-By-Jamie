@@ -1,3 +1,8 @@
+/*Backgrounds---------------------------------------------------------------------------------- */
+body {
+    background-color: lightgray;
+}
+
 /*Navigation---------------------------------------------------------------------------------- */
 nav {
     position:fixed;
@@ -42,8 +47,8 @@ nav ul li {
 
 .heading-one {
     text-align: center;
-    padding-top: 15px;
-    font-size: 18px;
+    padding-top: 5px;
+    font-size: 30px;
     margin-top: 20px;
 }
 
@@ -106,3 +111,7 @@ footer {
     width: 100%;
 }
 
+/*Gallery---------------------------------------------------------------------------------- */
+.gallery-images {
+    padding: 15px;
+}
