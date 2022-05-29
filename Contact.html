@@ -11,27 +11,17 @@
     <title>Art By Jamie</title>
 </head>
 <body>
-    <div class=" nav-color">
-        <div class="logo">
-            <img href="index.html" src="" alt="Logo">
-        </div>
-        <nav>
-            <ul class="nav">
-                <li class="nav-item home-nav">
-                    <a href="index.html">Home</a>
-                </li>
-                <li class="nav-item gallery-nav">
-                    <a href="Gallery.html">Gallery</a>
-                </li>
-                <li class="nav-item about-nav">
-                    <a href="About.html">About</a>
-                </li>
-                <li class="nav-item contact-nav">
-                    <a href="Contact.html">Contact</a>
-                </li>
+    <header>
+        <nav class="navbar navbar-expand-sm fixed-top" style="padding-left:4px;">
+            <a class="logo"><img href="index.html" src="" alt="Logo"></a>
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item mr-3 ml-3 home-nav"><a class="nav-link" href="index.html">Home</a></li>
+                <li class="nav-item gallery-nav mr-3 ml-3"><a href="Gallery.html"> Gallery</a></li>
+                <li class="nav-item about-nav mr-3 ml-3"><a href="About.html"> About</a> </li>
+                <li class="active nav-item contact-nav mr-3 ml-3"><a href="Contact.html"> Contact</a></li> 
             </ul>
-    </div>            
-        </nav>    
+        </nav>
+    </header>  
     <div class="container contact-form-container">  
         <form class="contact-form">
             <label for="fname">First Name<i>*</i></label>
@@ -62,22 +52,24 @@
         </form>
     </div>      
     <footer>
-        <section class="container-fluid contact-information contact-bg-colour-above">
-            <div class="row">
+        <section class="container-fluid contact-information">
+            <div class="row contact-bg-colour-above">
                 <div class="col">
                     <h6>Contact details: Phone Number, Location</h6>
                 </div>
             </div>
-        </section>
-        <section class="container-fluid contact-information contact-bg-colour-below">
-            <div>
-                <h6>got a project in mind, <a>lets work together</a>
-                </h6>
+            <div class="row contact-bg-colour-below">
+                <div class="col">
+                    <h6>got a project in mind, <a>lets work together</a>
+                    </h6>
+                </div>
             </div>
-            <div>
-                <a>Facebook</a>
-                <a>instagram</a>
-                <a>youtube</a>
+            <div class="row contact-bg-colour-below">
+                <div class="col">
+                    <a href=""><i class="fa-brands fa-facebook"></i></a>
+                    <a href=""><i class="fa-brands fa-youtube"></i></a>
+                    <a href=""><i class="fa-brands fa-instagram"></i></a>
+                </div>
             </div>
         </section>
     </footer>
