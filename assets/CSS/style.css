@@ -6,6 +6,10 @@
     height: 120px;
 }
 
+.navbar li {
+    right: 0;
+}
+
 .navbar li a {
     color: black;
     text-align: center;
@@ -13,12 +17,11 @@
 }
 
 .logo {
-    width: 80px; 
-    height: 80px;
+    width: 120px; 
+    height: 100%;
     float: left;
     background-color: black;
     text-align: center;
-    left:0;
 }
 
 /*colours---------------------------------------------------------------------------------- */
@@ -109,4 +112,14 @@ body {
     font-size: 12px;
     border-radius: 15px;
     border-style: none;
+}
+
+/*Font awesome icons---------------------------------------------------------------------------------- */
+
+div a i {
+    font-size: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: center;
+    color: black;
 }
