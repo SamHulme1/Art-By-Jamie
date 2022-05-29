@@ -171,3 +171,11 @@ div a i {
     text-align: center;
     color: black;
 }
+/*puesudo effects---------------------------------------------------------------------------------- */
+
+.hvr-sweep-to-top:before {
+    background: black;
+    font-size: 18px;
+    content: "Hello";
+    text-align: center;
+}
