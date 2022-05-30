@@ -44,23 +44,6 @@ body {
     margin-top: 20px;
 }
 
-/*Contact---------------------------------------------------------------------------------- */
-
-.contact-information {
-    text-align: center;
-    font-size: small;
-    height:100%;
-}
-
-.contact-bg-colour-above {
-    background-color: rgb(102,65,196);
-}
-
-.contact-bg-colour-below {
-    background-color: rgb(76, 48, 145);
-}
-
-
 /*Images---------------------------------------------------------------------------------- */
 
 .hero-container {
@@ -76,9 +59,15 @@ body {
 .about-information {
     background-color:rgb(149, 120, 223);
     height: 300px;
-    width:100%; 
+    width: 90%; 
     text-align: center;
     bottom: 0;
+}
+
+/*containers---------------------------------------------------------------------------------- */
+.container{
+    margin-bottom: 20px;
+    border-radius: 15px;
 }
 
 /*Gallery---------------------------------------------------------------------------------- */
@@ -164,8 +153,44 @@ height:300px;
     border-radius: 15px;
     border-style: none;
 }
+/*Footer---------------------------------------------------------------------------------- */
 
-/*Font awesome icons---------------------------------------------------------------------------------- */
+/*Contact--------------------------------------- */
+
+.contact-information {
+    text-align: center;
+    font-size: small;
+    height:100%;
+}
+
+.contact-bg-colour-above {
+    background-color: rgb(102,65,196);
+}
+
+.contact-bg-colour-below {
+    background-color: rgb(76, 48, 145);
+}
+
+hr {
+    width: 200px;
+    background-color: white;
+    height: 0.1px;
+}
+
+.phone {
+    text-align: left;
+    padding-bottom: 20px;
+    display: inline;
+
+}
+
+.address {
+    text-align: right;
+    padding-bottom: 20px;
+    display: inline;
+}
+
+/*Font awesome icons------------------------------ */
 
 div a i {
     font-size: 30px;
@@ -174,6 +199,8 @@ div a i {
     text-align: center;
     color: white;
 }
+
+
 /*puesudo effects---------------------------------------------------------------------------------- */
 
 .hvr-sweep-to-top:before {
