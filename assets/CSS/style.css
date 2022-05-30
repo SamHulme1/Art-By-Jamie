@@ -1,3 +1,7 @@
+/*Fonts---------------------------------------------------------------------------------- */
+
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Roboto+Mono:wght@200&display=swap');
+
 /*Navigation---------------------------------------------------------------------------------- */
 
 .navbar{
@@ -11,10 +15,10 @@
 }
 
 .navbar li a {
-    color: black;
     text-align: center;
     line-height: 5px;
-    font-size: 20px;
+    color: black;
+    font-size: 25px;
 }
 
 .logo {
@@ -29,19 +33,31 @@
 
 /*colours---------------------------------------------------------------------------------- */
 body {
-    background-color: rgb(234, 232, 238);
+    background-color: #A8CCFF;
 }
 
 .navbar {
-    background-color:rgb(149, 120, 223, 0.6);
+    background-color:#9EE694;
 }
 /*Headings---------------------------------------------------------------------------------- */
 
 .heading-one {
     text-align: center;
     padding-top: 5px;
-    font-size: 30px;
+    font-size: 50px;
     margin-top: 20px;
+    font-family: creepster;
+    color:;
+    letter-spacing: 5px;
+    font-weight: 700;
+    border: #B2475B;
+}
+
+.heading-2 {
+    font-family: creepster;
+    font-size: 25px; 
+    color:black;
+    letter-spacing: 3px;
 }
 
 /*Images---------------------------------------------------------------------------------- */
@@ -57,7 +73,7 @@ body {
 
 /*About ---------------------------------------------------------------------------------- */
 .about-information {
-    background-color:rgb(149, 120, 223);
+    background-color:#E9A2CC;
     height: 300px;
     width: 90%; 
     text-align: center;
@@ -130,7 +146,7 @@ height:300px;
 }
 
 .contact-form-container {
-    background-color: rgb(149, 120, 223, 0.6);
+    background-color: #E9A2CC;
     margin-top: 160px;
     margin-bottom: 65px;
     padding-top: 100px;
@@ -164,11 +180,11 @@ height:300px;
 }
 
 .contact-bg-colour-above {
-    background-color: rgb(102,65,196);
+    background-color: #84aacb;
 }
 
 .contact-bg-colour-below {
-    background-color: rgb(76, 48, 145);
+    background-color: #1D3097;
 }
 
 hr {
@@ -214,6 +230,6 @@ div a i {
 
 .hover-change:hover{
     color: white;
-    font-size: 22px;
+    font-size: 30px;
 }
 
