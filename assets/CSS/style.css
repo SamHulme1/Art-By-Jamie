@@ -15,12 +15,11 @@
     text-align: center;
     line-height: 5px;
     font-size: 20px;
-    font-weight: ;
 }
 
 .logo {
-    width: 120px; 
-    height: 100%;
+    width: 100px; 
+    height: 100px;
     float: left;
     background-color: black;
     text-align: center;
@@ -30,11 +29,11 @@
 
 /*colours---------------------------------------------------------------------------------- */
 body {
-    background-color: lightgray;
+    background-color: rgb(234, 232, 238);
 }
 
 .navbar {
-    background-color: grey;
+    background-color:rgb(149, 120, 223, 0.6);
 }
 /*Headings---------------------------------------------------------------------------------- */
 
@@ -54,11 +53,11 @@ body {
 }
 
 .contact-bg-colour-above {
-    background-color: rgb(39, 178, 178);
+    background-color: rgb(102,65,196);
 }
 
 .contact-bg-colour-below {
-    background-color: blueviolet;
+    background-color: rgb(76, 48, 145);
 }
 
 
@@ -75,7 +74,7 @@ body {
 
 /*About ---------------------------------------------------------------------------------- */
 .about-information {
-    background-color: red;
+    background-color:rgb(149, 120, 223);
     height: 300px;
     width:100%; 
     text-align: center;
@@ -142,7 +141,7 @@ height:300px;
 }
 
 .contact-form-container {
-    background-color: aliceblue;
+    background-color: rgb(149, 120, 223, 0.6);
     margin-top: 160px;
     margin-bottom: 65px;
     padding-top: 100px;
@@ -173,7 +172,7 @@ div a i {
     margin-left: 40px;
     margin-right: 40px;
     text-align: center;
-    color: black;
+    color: white;
 }
 /*puesudo effects---------------------------------------------------------------------------------- */
 
