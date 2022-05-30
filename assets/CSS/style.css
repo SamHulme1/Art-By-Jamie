@@ -46,7 +46,7 @@ body {
 .heading-one {
     text-align: center;
     padding-top: 5px;
-    font-size: 50px;
+    font-size: 80px;
     margin-top: 200px;
     font-family: creepster;
     letter-spacing: 5px;
@@ -94,8 +94,6 @@ body {
     border-width: 3px;
     border-color: white;
 }
-}
-
 /*Gallery---------------------------------------------------------------------------------- */
 .gallery-images {
     padding: 15px;
