@@ -47,9 +47,8 @@ body {
     text-align: center;
     padding-top: 5px;
     font-size: 50px;
-    margin-top: 20px;
+    margin-top: 200px;
     font-family: creepster;
-    color:;
     letter-spacing: 5px;
     font-weight: 700;
     border: #B2475B;
@@ -69,12 +68,13 @@ body {
 /*Images---------------------------------------------------------------------------------- */
 
 .hero-container {
-    background-image: none;
+    background: url(/assets/img/my-creepy-children-jamie-thomas.jpg);
     background-repeat: no-repeat;
+    background-position: 1% 60%;
+    background-size: 100%;
     width:100%;
-    height: 600px;
-    z-index: 2;
-    margin-top:100px
+    height: 800px;
+    margin-top:80px;
 }
 
 /*About ---------------------------------------------------------------------------------- */
@@ -90,6 +90,10 @@ body {
 .container{
     margin-bottom: 20px;
     border-radius: 15px;
+    border-style: dashed;
+    border-width: 3px;
+    border-color: white;
+}
 }
 
 /*Gallery---------------------------------------------------------------------------------- */
