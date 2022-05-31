@@ -42,7 +42,7 @@
 
 /*colours---------------------------------------------------------------------------------- */
 body {
-    background-color: #A8CCFF;
+    background-color: white;
 }
 
 .navbar {
@@ -84,6 +84,8 @@ textarea, input {
 #hero-image {
     background-repeat: no-repeat;
     width:100%;
+    height: 100%;
+    border-radius: 15px;
 }
 
 /*About ---------------------------------------------------------------------------------- */
@@ -102,7 +104,7 @@ textarea, input {
     border-radius: 15px;
     border-style: dashed;
     border-width: 3px;
-    border-color: white;
+    border-color: black;
     width: 90%;
 }
 
@@ -223,7 +225,7 @@ height:300px;
 }
 
 .contact-bg-colour-above {
-    background-color: #84aacb;
+    background-color: #e5c808;
 }
 
 hr {
