@@ -47,7 +47,6 @@ body {
     text-align: center;
     padding-top: 5px;
     font-size: 80px;
-    margin-top: 200px;
     font-family: creepster;
     letter-spacing: 5px;
     font-weight: 700;
@@ -94,6 +93,12 @@ body {
     border-width: 3px;
     border-color: white;
 }
+
+.container-heading {
+    margin-top: 200px;
+    width: 90%;
+}
+
 /*Gallery---------------------------------------------------------------------------------- */
 .gallery-images {
     padding: 15px;
@@ -195,30 +200,41 @@ hr {
     width: 200px;
     background-color: white;
     height: 0.1px;
+    align-items: center;
 }
 
 .phone {
     text-align: left;
     padding-bottom: 20px;
-    display: inline;
+    padding-top: 10px;
+    color: white;
 
 }
 
 .address {
     text-align: right;
     padding-bottom: 20px;
-    display: inline;
+    padding-top: 10px;
+    color: white;
+}
+
+section div div h6 {
+    color: white;
 }
 
 /*Font awesome icons------------------------------ */
 
-div a i {
+section div div h6 a i {
     font-size: 30px;
     margin-left: 40px;
     margin-right: 40px;
-    text-align: center;
     color: white;
 }
+
+section div div h6{
+    text-align: center;
+}
+
 
 section div div h2 i {
     float: right;
@@ -253,8 +269,11 @@ section div div h2 i {
     }    
 
     .heading-one{
-        font-size: 50px;
+        font-size: 40px;
+    }
+    .container-heading{
         margin-top:130px;
+        width: 90%;
     }
     }
 
@@ -267,8 +286,11 @@ section div div h2 i {
         }    
     
         .heading-one{
-            font-size: 30px;
+            font-size: 20px;
+        }
+        .container-heading{
             margin-top:130px;
+            width: 90%;
         }
         }
 
