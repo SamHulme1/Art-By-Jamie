@@ -31,6 +31,7 @@
     text-align: center;
     border-radius: 50%;
     padding:25px;
+    font-family: avro, sans-serif;
 }
 
 /*colours---------------------------------------------------------------------------------- */
@@ -47,21 +48,20 @@ body {
     text-align: center;
     padding-top: 5px;
     font-size: 80px;
-    font-family: creepster;
+    font-family: creepster, sans-serif;
     letter-spacing: 5px;
     font-weight: 700;
-    border: #B2475B;
 }
 
 .heading-2 {
-    font-family: creepster;
+    font-family: creepster, sans-serif;
     font-size: 25px; 
     color:black;
     letter-spacing: 3px;
 }
 
 .paragraph-text {
-    font-family: arvo;
+    font-family: arvo, sans-serif;
     letter-spacing: 1px;
 }
 /*Images---------------------------------------------------------------------------------- */
@@ -241,7 +241,7 @@ section div div h2 i {
 }
 
 
-/*puesudo effects---------------------------------------------------------------------------------- */
+/*psesudo effects---------------------------------------------------------------------------------- */
 
 .gallery-image-6.hvr-sweep-to-top:before {
     background:rgba(0, 0, 0, 0.2);
@@ -250,6 +250,8 @@ section div div h2 i {
     text-align: center;
     padding-top: 135px;
     color:black;
+    font-family: arvo, sans-serif;
+    letter-spacing: 1px;
 }
 
 .gallery-image-5.hvr-sweep-to-top:before {
@@ -259,6 +261,8 @@ section div div h2 i {
     text-align: center;
     padding-top: 135px;
     color:black;
+    font-family: arvo, sans-serif;
+    letter-spacing: 1px;
 }
 
 .gallery-image-4.hvr-sweep-to-top:before {
@@ -268,6 +272,8 @@ section div div h2 i {
     text-align: center;
     padding-top: 135px;
     color:black;
+    font-family: arvo, sans-serif;
+    letter-spacing: 1px;
 }
 
 .gallery-image-3.hvr-sweep-to-top:before {
@@ -277,6 +283,8 @@ section div div h2 i {
     text-align: center;
     padding-top: 135px;
     color:black;
+    font-family: arvo, sans-serif;
+    letter-spacing: 1px;
 }
 
 .gallery-image-2.hvr-sweep-to-top:before {
@@ -286,6 +294,8 @@ section div div h2 i {
     text-align: center;
     padding-top: 135px;
     color:black;
+    font-family: arvo, sans-serif;
+    letter-spacing: 1px;
 }
 
 .gallery-image-1.hvr-sweep-to-top:before {
@@ -295,6 +305,8 @@ section div div h2 i {
     text-align: center;
     padding-top: 135px;
     color:black;
+    font-family: arvo, sans-serif;
+    letter-spacing: 1px;
 }
 
 .hover-change:hover{
