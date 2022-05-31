@@ -243,10 +243,55 @@ section div div h2 i {
 
 /*puesudo effects---------------------------------------------------------------------------------- */
 
-.hvr-sweep-to-top:before {
+.gallery-image-6.hvr-sweep-to-top:before {
     background:rgba(0, 0, 0, 0.2);
     font-size: 18px;
-    content: "Hello";
+    content: "image-6";
+    text-align: center;
+    padding-top: 135px;
+    color:black;
+}
+
+.gallery-image-5.hvr-sweep-to-top:before {
+    background:rgba(0, 0, 0, 0.2);
+    font-size: 18px;
+    content: "image-5";
+    text-align: center;
+    padding-top: 135px;
+    color:black;
+}
+
+.gallery-image-4.hvr-sweep-to-top:before {
+    background:rgba(0, 0, 0, 0.2);
+    font-size: 18px;
+    content: "image-4";
+    text-align: center;
+    padding-top: 135px;
+    color:black;
+}
+
+.gallery-image-3.hvr-sweep-to-top:before {
+    background:rgba(0, 0, 0, 0.2);
+    font-size: 18px;
+    content: "image-3";
+    text-align: center;
+    padding-top: 135px;
+    color:black;
+}
+
+.gallery-image-2.hvr-sweep-to-top:before {
+    background:rgba(0, 0, 0, 0.2);
+    font-size: 18px;
+    content: "image-2";
+    text-align: center;
+    padding-top: 135px;
+    color:black;
+}
+
+.gallery-image-1.hvr-sweep-to-top:before {
+    background:rgba(0, 0, 0, 0.2);
+    font-size: 18px;
+    content: "image-1";
     text-align: center;
     padding-top: 135px;
     color:black;
