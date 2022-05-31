@@ -17,6 +17,10 @@
 body {
     user-select: none;
 }
+
+.nomargin {
+    margin:0;
+}
 /*map---------------------------------------------------------------------------------- */
 
 .map{
@@ -28,7 +32,6 @@ body {
 
 container-map{
     margin-top:80px;
-    margin-bottom:0;
     width: 100%;
 }
 
@@ -105,9 +108,8 @@ textarea, input {
 
 #hero-image {
     background-repeat: no-repeat;
-    width:100%;
-    height: 100%;
     border-radius: 15px;
+    width:100%;
 }
 
 /*About ---------------------------------------------------------------------------------- */
@@ -130,6 +132,17 @@ textarea, input {
     width: 90%;
 }
 
+.hero-container{
+    position: relative;
+    overflow: hidden;
+    height:30rem;
+    border-radius: 15px;
+    border-style: dashed;
+    border-width: 3px;
+    border-color: black;
+    width: 90%;
+    margin-top:80px;
+}
 .container-heading {
     margin-top: 200px;
     width: 90%;
