@@ -189,6 +189,16 @@ height:300px;
     border-radius: 15px;
     border-style: none;
 }
+/*Buttons---------------------------------------------------------------------------------- */
+
+.submit-button {
+    border-radius: 15px;
+    margin: 30px;
+    width: 200px;
+    border-style: none;
+    background-color: white;
+}
+
 /*Footer---------------------------------------------------------------------------------- */
 
 /*Contact--------------------------------------- */
@@ -321,6 +331,12 @@ section div div h2 i {
     font-size: 30px;
 }
 
+.submit-button:hover{
+    background-color: #A8CCFF;
+    font-size: 40px;
+    width: 250px;
+    color: white;
+}
 
 /*media screens---------------------------------------------------------------------------------- */
 
