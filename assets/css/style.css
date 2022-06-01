@@ -83,6 +83,14 @@ body {
     background-color: white;
 }
 
+.pink {
+    background-color: #E9A2CC;
+}
+
+.contact-bg-colour-above {
+    background-color: #e5c808;
+}
+
 .navbar {
     background-color:rgba(158,230,148,0.8);
 }
@@ -122,6 +130,10 @@ textarea, input {
     text-align: center;
 }
 
+section div div h6 {
+    color: white;
+}
+
 /* Hero image---------------------------------------------------------------------------------- */
 
 #hero-image {
@@ -132,7 +144,6 @@ textarea, input {
 
 /*About ---------------------------------------------------------------------------------- */
 .about-information {
-    background-color:#E9A2CC;
     height: 300px;
     width: 90%; 
     text-align: center;
@@ -153,7 +164,6 @@ textarea, input {
 
 .hero-container{
     overflow: hidden;
-    height:30rem;
     border-radius: 15px;
     border-style: dashed;
     border-width: 3px;
@@ -171,16 +181,22 @@ textarea, input {
     margin-top:80px; 
 }
 
-/*Gallery---------------------------------------------------------------------------------- */
-.gallery-top{
-    height:300px;
-}
-
 .gallery-images-container {
     margin-top:80px;
     margin-bottom: 40px;
 
 }
+
+.contact-form-container {
+    margin-top: 160px;
+    margin-bottom: 65px;
+    padding-top: 100px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+}
+
+/*Gallery---------------------------------------------------------------------------------- */
+
 
 /*section-1-oils---------------------------------------------------------------------------------- */
 
@@ -228,7 +244,7 @@ overflow: hidden;
     content: "Childhood Memories, oil on canvas";
     text-align: center;
     padding-top: 135px;
-    color:black;
+    color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
     z-index: 1;
@@ -240,7 +256,7 @@ overflow: hidden;
     content: "Controlled Chaos, Oil On Canvas";
     text-align: center;
     padding-top: 135px;
-    color:black;
+    color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
     z-index: 1;
@@ -252,7 +268,7 @@ overflow: hidden;
     content: "Neglect, Oil On Canvas Board";
     text-align: center;
     padding-top: 135px;
-    color:black;
+    color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
     z-index: 1;
@@ -264,7 +280,7 @@ overflow: hidden;
     content: "Television Static, Oil On Canvas";
     text-align: center;
     padding-top: 135px;
-    color:black;
+    color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
     z-index: 1;
@@ -276,7 +292,7 @@ overflow: hidden;
     content: "Disturbances, Oil On Canvas";
     text-align: center;
     padding-top: 135px;
-    color:black;
+    color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
     z-index: 1;
@@ -288,7 +304,7 @@ overflow: hidden;
     content: "Treasured Memories, Oil On Canvas";
     text-align: center;
     padding-top: 135px;
-    color:black;
+    color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
     z-index: 1;
@@ -340,7 +356,7 @@ overflow: hidden;
     content: "A Journey To Feeling Whole, Acrylic On Canvas Board";
     text-align: center;
     padding-top: 135px;
-    color:black;
+    color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
     z-index: 1;
@@ -352,7 +368,7 @@ overflow: hidden;
     content: "Cabinet Of Curiosity A Commemoration, Acrylic On Canvas Board";
     text-align: center;
     padding-top: 135px;
-    color:black;
+    color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
     z-index: 1;
@@ -364,7 +380,7 @@ overflow: hidden;
     content: "Cabinet Of Curiosity Happyness, Acrylic On Canvas Board";
     text-align: center;
     padding-top: 135px;
-    color:black;
+    color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
     z-index: 1;
@@ -376,7 +392,7 @@ overflow: hidden;
     content: "A Study Of Hands 2, Acrylic On Canvas Board";
     text-align: center;
     padding-top: 135px;
-    color:black;
+    color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
     z-index: 1;
@@ -388,7 +404,7 @@ overflow: hidden;
     content: "A Study Of Hands 3, Acrylic On Canvas Board";
     text-align: center;
     padding-top: 135px;
-    color:black;
+    color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
     z-index: 1;
@@ -400,7 +416,7 @@ overflow: hidden;
     content: "A Study Of Hands 4, Acrylic On Canvas Board";
     text-align: center;
     padding-top: 135px;
-    color:black;
+    color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
     z-index: 1;
@@ -452,7 +468,7 @@ overflow: hidden;
     content: "Routine Coffee 2, Digital";
     text-align: center;
     padding-top: 135px;
-    color:black;
+    color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
     z-index: 1;
@@ -464,7 +480,7 @@ overflow: hidden;
     content: "Routine Coffee 4, Digital";
     text-align: center;
     padding-top: 135px;
-    color:black;
+    color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
     z-index: 1;
@@ -476,7 +492,7 @@ overflow: hidden;
     content: "Routine Coffee 5, Digital";
     text-align: center;
     padding-top: 135px;
-    color:black;
+    color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
     z-index: 1;
@@ -488,7 +504,7 @@ overflow: hidden;
     content: "Routine Yoga 1, Digital";
     text-align: center;
     padding-top: 135px;
-    color:black;
+    color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
     z-index: 1;
@@ -500,7 +516,7 @@ overflow: hidden;
     content: "Routine Yoga 3, Digital";
     text-align: center;
     padding-top: 135px;
-    color:black;
+    color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
     z-index: 1;
@@ -512,7 +528,7 @@ overflow: hidden;
     content: "Routine Yoga 5, Digital";
     text-align: center;
     padding-top: 135px;
-    color:black;
+    color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
     z-index: 1;
@@ -523,15 +539,6 @@ overflow: hidden;
     text-align: center;
     width: 100%;
     margin: 0 auto;
-}
-
-.contact-form-container {
-    background-color: #E9A2CC;
-    margin-top: 160px;
-    margin-bottom: 65px;
-    padding-top: 100px;
-    padding-bottom: 10px;
-    border-radius: 15px;
 }
 
 .input-area {
@@ -572,10 +579,6 @@ overflow: hidden;
     height:100px;
 }
 
-.contact-bg-colour-above {
-    background-color: #e5c808;
-}
-
 hr {
     width: 200px;
     background-color: white;
@@ -598,9 +601,6 @@ hr {
     color: white;
 }
 
-section div div h6 {
-    color: white;
-}
 
 /*Font awesome icons------------------------------ */
 
@@ -625,6 +625,8 @@ section div div h2 i {
     color:white;
 }
 
+/*pseudo elements--------------------------------------------------------------------------- */
+
 .hover-change:hover{
     color: white;
     font-size: 30px;
@@ -637,29 +639,20 @@ section div div h2 i {
     color: white;
 }
 
-.submit-button:visited{
-    background-color: #A8CCFF;
-    font-size: 50px;
-    width: 200px;
-    color: white;
-}
-
-
 /*media screens---------------------------------------------------------------------------------- */
 
 @media screen and (max-width: 393px) {
     
     .hero-container{    
         width: 90%;
-        height: 330px;
-        margin:20px;
+        margin: 1.25em;;
     }    
 
     .heading-one{
         font-size: 40px;
     }
     .container-heading{
-        margin-top:130px;
+        margin-top: 8.125em;
         width: 90%;
     }
     }
@@ -668,7 +661,6 @@ section div div h2 i {
     
         .hero-container{    
             width: 90%;
-            height: 240px;
             margin:14px;
         }    
     
@@ -676,7 +668,7 @@ section div div h2 i {
             font-size: 20px;
         }
         .container-heading{
-            margin-top:130px;
+            margin-top:8.125em;
             width: 90%;
         }
         }
