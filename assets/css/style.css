@@ -219,7 +219,7 @@ overflow: hidden;
     overflow: hidden;
 }
 
-/*psesudo effects---------------------------------------------------------------------------------- */
+/*psesudo effects for oils---------------------------------------------------------------------------------- */
 
 .gallery-image-6.hvr-sweep-to-top:before {
     background:rgba(0, 0, 0, 0.2);
@@ -294,7 +294,116 @@ overflow: hidden;
 }
 
 /*section-2-acrylic---------------------------------------------------------------------------------- */
+.gallery-image-7 {
+    width: 100%;
+    height:300px;
+    overflow: hidden;
+    }
+    
+    .gallery-image-8 {
+        width: 100%;
+        height:300px;
+        overflow: hidden;
+    }
+    
+    .gallery-image-9 {
+        width: 100%;
+        height:300px;
+        overflow: hidden;
+    }
+    
+    .gallery-image-10 {
+        width: 100%;
+        height:300px;
+        overflow: hidden;
+    }
+    
+    .gallery-image-11 {
+        width: 100%;
+        height:300px;
+        overflow: hidden;
+    }
+    
+    .gallery-image-12 {
+        width: 100%;
+        height:300px;
+        overflow: hidden;
+    }
 
+
+/*psesudo effects for acrylics---------------------------------------------------------------------------------- */
+
+.gallery-image-12.hvr-sweep-to-top:before {
+    background:rgba(0, 0, 0, 0.2);
+    font-size: 18px;
+    content: "image-6";
+    text-align: center;
+    padding-top: 135px;
+    color:black;
+    font-family: arvo, sans-serif;
+    letter-spacing: 1px;
+    z-index: 1;
+}
+
+.gallery-image-11.hvr-sweep-to-top:before {
+    background:rgba(0, 0, 0, 0.2);
+    font-size: 18px;
+    content: "image-5";
+    text-align: center;
+    padding-top: 135px;
+    color:black;
+    font-family: arvo, sans-serif;
+    letter-spacing: 1px;
+    z-index: 1;
+}
+
+.gallery-image-10.hvr-sweep-to-top:before {
+    background:rgba(0, 0, 0, 0.2);
+    font-size: 18px;
+    content: "image-4";
+    text-align: center;
+    padding-top: 135px;
+    color:black;
+    font-family: arvo, sans-serif;
+    letter-spacing: 1px;
+    z-index: 1;
+}
+
+.gallery-image-9.hvr-sweep-to-top:before {
+    background:rgba(0, 0, 0, 0.2);
+    font-size: 18px;
+    content: "image-3";
+    text-align: center;
+    padding-top: 135px;
+    color:black;
+    font-family: arvo, sans-serif;
+    letter-spacing: 1px;
+    z-index: 1;
+}
+
+.gallery-image-8.hvr-sweep-to-top:before {
+    background:rgba(0, 0, 0, 0.2);
+    font-size: 18px;
+    content: "image-2";
+    text-align: center;
+    padding-top: 135px;
+    color:black;
+    font-family: arvo, sans-serif;
+    letter-spacing: 1px;
+    z-index: 1;
+}
+
+.gallery-image-7.hvr-sweep-to-top:before {
+    background:rgba(0, 0, 0, 0.2);
+    font-size: 18px;
+    content: "image-1";
+    text-align: center;
+    padding-top: 135px;
+    color:black;
+    font-family: arvo, sans-serif;
+    letter-spacing: 1px;
+    z-index: 1;
+}
 /*section-3-drawings-and-digital---------------------------------------------------------------------------------- */
 
 /*Contact Form---------------------------------------------------------------------------------- */
