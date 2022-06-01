@@ -170,6 +170,7 @@ section div div h6 {
     border-color: black;
     width: 90%;
     margin-top:80px;
+    height:40rem;
 }
 .container-heading {
     margin-top: 200px;
@@ -641,11 +642,21 @@ section div div h2 i {
 
 /*media screens---------------------------------------------------------------------------------- */
 
+@media screen and (max-width: 750px) {
+
+    .hero-container{    
+        width: 90%;
+        height: 15rem;
+    }    
+}
+
+
 @media screen and (max-width: 393px) {
     
     .hero-container{    
         width: 90%;
-        margin: 1.25em;;
+        margin: 1.25em;
+        height: 15rem;
     }    
 
     .heading-one{
@@ -662,6 +673,7 @@ section div div h2 i {
         .hero-container{    
             width: 90%;
             margin:14px;
+            height: 10rem;
         }    
     
         .heading-one{
