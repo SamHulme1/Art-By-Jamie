@@ -219,6 +219,84 @@ overflow: hidden;
     overflow: hidden;
 }
 
+/*psesudo effects---------------------------------------------------------------------------------- */
+
+.gallery-image-6.hvr-sweep-to-top:before {
+    background:rgba(0, 0, 0, 0.2);
+    font-size: 18px;
+    content: "image-6";
+    text-align: center;
+    padding-top: 135px;
+    color:black;
+    font-family: arvo, sans-serif;
+    letter-spacing: 1px;
+    z-index: 1;
+}
+
+.gallery-image-5.hvr-sweep-to-top:before {
+    background:rgba(0, 0, 0, 0.2);
+    font-size: 18px;
+    content: "image-5";
+    text-align: center;
+    padding-top: 135px;
+    color:black;
+    font-family: arvo, sans-serif;
+    letter-spacing: 1px;
+    z-index: 1;
+}
+
+.gallery-image-4.hvr-sweep-to-top:before {
+    background:rgba(0, 0, 0, 0.2);
+    font-size: 18px;
+    content: "image-4";
+    text-align: center;
+    padding-top: 135px;
+    color:black;
+    font-family: arvo, sans-serif;
+    letter-spacing: 1px;
+    z-index: 1;
+}
+
+.gallery-image-3.hvr-sweep-to-top:before {
+    background:rgba(0, 0, 0, 0.2);
+    font-size: 18px;
+    content: "image-3";
+    text-align: center;
+    padding-top: 135px;
+    color:black;
+    font-family: arvo, sans-serif;
+    letter-spacing: 1px;
+    z-index: 1;
+}
+
+.gallery-image-2.hvr-sweep-to-top:before {
+    background:rgba(0, 0, 0, 0.2);
+    font-size: 18px;
+    content: "image-2";
+    text-align: center;
+    padding-top: 135px;
+    color:black;
+    font-family: arvo, sans-serif;
+    letter-spacing: 1px;
+    z-index: 1;
+}
+
+.gallery-image-1.hvr-sweep-to-top:before {
+    background:rgba(0, 0, 0, 0.2);
+    font-size: 18px;
+    content: "image-1";
+    text-align: center;
+    padding-top: 135px;
+    color:black;
+    font-family: arvo, sans-serif;
+    letter-spacing: 1px;
+    z-index: 1;
+}
+
+/*section-2-acrylic---------------------------------------------------------------------------------- */
+
+/*section-3-drawings-and-digital---------------------------------------------------------------------------------- */
+
 /*Contact Form---------------------------------------------------------------------------------- */
 .contact-form {
     text-align: center;
@@ -324,76 +402,6 @@ section div div h2 i {
 .to-the-top a i {
     text-decoration: none;
     color:white;
-}
-
-
-/*psesudo effects---------------------------------------------------------------------------------- */
-
-.gallery-image-6.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
-    font-size: 18px;
-    content: "image-6";
-    text-align: center;
-    padding-top: 135px;
-    color:black;
-    font-family: arvo, sans-serif;
-    letter-spacing: 1px;
-}
-
-.gallery-image-5.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
-    font-size: 18px;
-    content: "image-5";
-    text-align: center;
-    padding-top: 135px;
-    color:black;
-    font-family: arvo, sans-serif;
-    letter-spacing: 1px;
-}
-
-.gallery-image-4.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
-    font-size: 18px;
-    content: "image-4";
-    text-align: center;
-    padding-top: 135px;
-    color:black;
-    font-family: arvo, sans-serif;
-    letter-spacing: 1px;
-}
-
-.gallery-image-3.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
-    font-size: 18px;
-    content: "image-3";
-    text-align: center;
-    padding-top: 135px;
-    color:black;
-    font-family: arvo, sans-serif;
-    letter-spacing: 1px;
-}
-
-.gallery-image-2.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
-    font-size: 18px;
-    content: "image-2";
-    text-align: center;
-    padding-top: 135px;
-    color:black;
-    font-family: arvo, sans-serif;
-    letter-spacing: 1px;
-}
-
-.gallery-image-1.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
-    font-size: 18px;
-    content: "image-1";
-    text-align: center;
-    padding-top: 135px;
-    color:black;
-    font-family: arvo, sans-serif;
-    letter-spacing: 1px;
-    z-index: 1;
 }
 
 .hover-change:hover{
