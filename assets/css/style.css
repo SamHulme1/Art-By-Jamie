@@ -80,7 +80,7 @@ container-map{
 
 /*colours---------------------------------------------------------------------------------- */
 body {
-    background-color: white;
+     background-color: white;
 }
 
 .pink {
@@ -134,10 +134,16 @@ section div div h6 {
     color: white;
 }
 
-/* Hero image---------------------------------------------------------------------------------- */
+/* images---------------------------------------------------------------------------------- */
+
+#breakout-image {
+    width: 20em;
+    height: 30em;
+
+    
+}
 
 #hero-image {
-    background-repeat: no-repeat;
     border-radius: 15px;
     width:100%;
 }
@@ -172,6 +178,7 @@ section div div h6 {
     margin-top:80px;
     height:40rem;
 }
+
 .container-heading {
     margin-top: 200px;
     width: 90%;
@@ -196,6 +203,9 @@ section div div h6 {
     border-radius: 15px;
 }
 
+.breakout-container {
+    margin-bottom: 80px;
+}
 /*Gallery---------------------------------------------------------------------------------- */
 
 
@@ -657,7 +667,11 @@ section div div h2 i {
         width: 90%;
         margin: 1.25em;
         height: 15rem;
-    }    
+    } 
+    
+    .submit-button {
+        margin:1em 0 0 0;
+    }
 
     .heading-one{
         font-size: 40px;
