@@ -148,6 +148,7 @@ textarea, input {
     border-width: 3px;
     border-color: black;
     width: 90%;
+    overflow: hidden;
 }
 
 .hero-container{
@@ -295,40 +296,40 @@ overflow: hidden;
 
 /*section-2-acrylic---------------------------------------------------------------------------------- */
 .gallery-image-7 {
+width: 100%;
+height:300px;
+overflow: hidden;
+}
+    
+.gallery-image-8 {
     width: 100%;
     height:300px;
     overflow: hidden;
-    }
+}
     
-    .gallery-image-8 {
-        width: 100%;
-        height:300px;
-        overflow: hidden;
-    }
+.gallery-image-9 {
+    width: 100%;
+    height:300px;
+    overflow: hidden;
+}
     
-    .gallery-image-9 {
-        width: 100%;
-        height:300px;
-        overflow: hidden;
-    }
+.gallery-image-10 {
+    width: 100%;
+    height:300px;
+    overflow: hidden;
+}
     
-    .gallery-image-10 {
-        width: 100%;
-        height:300px;
-        overflow: hidden;
-    }
+.gallery-image-11 {
+    width: 100%;
+    height:300px;
+    overflow: hidden;
+}
     
-    .gallery-image-11 {
-        width: 100%;
-        height:300px;
-        overflow: hidden;
-    }
-    
-    .gallery-image-12 {
-        width: 100%;
-        height:300px;
-        overflow: hidden;
-    }
+.gallery-image-12 {
+    width: 100%;
+    height:300px;
+    overflow: hidden;
+}
 
 
 /*psesudo effects for acrylics---------------------------------------------------------------------------------- */
@@ -412,36 +413,35 @@ overflow: hidden;
     overflow: hidden;
     }
     
-    .gallery-image-17 {
-        width: 100%;
-        height:300px;
-        overflow: hidden;
-    }
+.gallery-image-17 {
+    width: 100%;
+    height:300px;
+    overflow: hidden;
+}
     
-    .gallery-image-16 {
-        width: 100%;
-        height:300px;
-        overflow: hidden;
-    }
+.gallery-image-16 {
+    width: 100%;
+    height:300px;
+    overflow: hidden;
+}
     
-    .gallery-image-15 {
-        width: 100%;
-        height:300px;
-        overflow: hidden;
-    }
+.gallery-image-15 {
+    width: 100%;
+    height:300px;
+    overflow: hidden;
+}
     
-    .gallery-image-14 {
-        width: 100%;
-        height:300px;
-        overflow: hidden;
-    }
+.gallery-image-14 {
+    width: 100%;
+    height:300px;
+    overflow: hidden;
+}
     
-    .gallery-image-13 {
-        width: 100%;
-        height:300px;
-        overflow: hidden;
-        left:0;
-    }
+.gallery-image-13 {
+    width: 100%;
+    height:300px;
+    overflow: hidden;
+}
 
 
 /*psesudo effects for digital-and-sketches---------------------------------------------------------------------------------- */
