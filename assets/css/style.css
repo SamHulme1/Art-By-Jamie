@@ -31,8 +31,7 @@ body {
 }
 
 container-map{
-    margin-top:80px;
-    width: 100%;
+    margin-top:5rem;
 }
 
 /*Navigation---------------------------------------------------------------------------------- */
@@ -87,7 +86,7 @@ body {
     background-color: #E9A2CC;
 }
 
-.contact-bg-colour-above {
+.contact-color {
     background-color: #e5c808;
 }
 
@@ -128,10 +127,6 @@ textarea, input {
 
 .center {
     text-align: center;
-}
-
-section div div h6 {
-    color: white;
 }
 
 /* images---------------------------------------------------------------------------------- */
@@ -589,13 +584,12 @@ overflow: hidden;
 
 .contact-information {
     text-align: center;
-    font-size: small;
     height:100px;
 }
 
 hr {
     width: 200px;
-    background-color: white;
+    background-color: black;
     height: 0.1px;
     align-items: center;
 }
@@ -604,7 +598,7 @@ hr {
     text-align: left;
     padding-bottom: 20px;
     padding-top: 10px;
-    color: white;
+    color: black
 
 }
 
@@ -612,7 +606,7 @@ hr {
     text-align: right;
     padding-bottom: 20px;
     padding-top: 10px;
-    color: white;
+    color: black;
 }
 
 
@@ -622,7 +616,7 @@ section div div h6 a i {
     font-size: 30px;
     margin-left: 40px;
     margin-right: 40px;
-    color: white;
+    color: black;
 }
 
 section div div h6{
