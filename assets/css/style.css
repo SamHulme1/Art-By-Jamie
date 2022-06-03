@@ -150,10 +150,17 @@ section div div h6 {
 
 /*About ---------------------------------------------------------------------------------- */
 .about-information {
-    height: 300px;
+    border-radius: 15px;
     width: 90%; 
     text-align: center;
-    bottom: 0;
+    border-style: dashed;
+    border-color: black;
+    border-width: 3px;
+    margin-top: 5rem;
+}
+
+.about-information p {
+    font-family: creepster sans-serif;
 }
 
 /*containers---------------------------------------------------------------------------------- */
