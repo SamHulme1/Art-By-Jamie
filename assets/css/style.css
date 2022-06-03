@@ -228,7 +228,6 @@ textarea, input {
 
 .gallery-image-1 {
 width: 100%;
-height:300px;
 overflow: hidden;
 }
 
@@ -695,5 +694,9 @@ section div div h2 i {
 
 .icon{
     font-size: 20px;
+}
+
+.gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16{
+    height:100%;
 }
 }
