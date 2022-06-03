@@ -21,6 +21,7 @@ body {
 .nomargin {
     margin:0;
 }
+
 /*map---------------------------------------------------------------------------------- */
 
 .map{
@@ -87,11 +88,12 @@ body {
 }
 
 .contact-color {
-    background-color: #b2475b;
+    background-color: #F2CC0C;
 }
 
 a {
     color: #E9A2CC;
+    text-decoration: none;
 }
 
 .navbar {
@@ -614,7 +616,7 @@ hr {
 
 /*Font awesome icons------------------------------ */
 
-section div div h6 a i {
+.icon {
     font-size: 30px;
     margin-left: 40px;
     margin-right: 40px;
@@ -648,7 +650,10 @@ section div div h2 i {
     width: 200px;
     color: white;
 }
-
+.hover-change-footer:hover{
+    color: white;
+    font-size: 20px;
+}
 /*media screens---------------------------------------------------------------------------------- */
 
 @media screen and (max-width: 750px) {
