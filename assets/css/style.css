@@ -87,7 +87,11 @@ body {
 }
 
 .contact-color {
-    background-color: #e5c808;
+    background-color: #b2475b;
+}
+
+a {
+    color: #E9A2CC;
 }
 
 .navbar {
@@ -132,8 +136,8 @@ textarea, input {
 /* images---------------------------------------------------------------------------------- */
 
 #breakout-image {
-    width: 20em;
-    height: 30em;
+    width: 10em;
+    height: 15em;
 
     
 }
@@ -194,7 +198,6 @@ textarea, input {
 
 .contact-form-container {
     margin-top: 5rem;
-    margin-bottom: 5rem;
     padding-top: 100px;
     padding-bottom: 10px;
     border-radius: 15px;
@@ -584,7 +587,6 @@ overflow: hidden;
 
 .contact-information {
     text-align: center;
-    height:100px;
 }
 
 hr {
