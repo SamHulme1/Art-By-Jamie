@@ -122,6 +122,13 @@ a {
     letter-spacing: 3px;
 }
 
+.heading-2-form {
+    font-family: creepster, sans-serif;
+    font-size: 25px; 
+    color:black;
+    letter-spacing: 3px;
+}
+
 .paragraph-text {
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
