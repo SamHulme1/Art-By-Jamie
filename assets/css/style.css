@@ -97,7 +97,7 @@ body {
 }
 
 a {
-    color: #E9A2CC;
+    color: blue;
     text-decoration: none;
 }
 
@@ -647,6 +647,7 @@ section div div h2 i {
 .hover-change-footer:hover{
     color: white;
     font-size: 20px;
+    text-decoration: none;
 }
 /*media screens---------------------------------------------------------------------------------- */
 
