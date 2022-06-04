@@ -228,6 +228,7 @@ textarea, input {
 
 .gallery-image-1 {
 width: 100%;
+height:300px;
 overflow: hidden;
 }
 
@@ -264,11 +265,10 @@ overflow: hidden;
 /*psesudo effects for oils---------------------------------------------------------------------------------- */
 
 .gallery-image-1.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
+    background:rgba(0, 0, 0, 0.6);
     font-size: 18px;
     content: "Childhood Memories, oil on canvas";
     text-align: center;
-    padding-top: 135px;
     color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
@@ -276,11 +276,10 @@ overflow: hidden;
 }
 
 .gallery-image-2.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
+    background:rgba(0, 0, 0, 0.6);
     font-size: 18px;
     content: "Controlled Chaos, Oil On Canvas";
     text-align: center;
-    padding-top: 135px;
     color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
@@ -288,11 +287,10 @@ overflow: hidden;
 }
 
 .gallery-image-3.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
+    background:rgba(0, 0, 0, 0.6);
     font-size: 18px;
     content: "Neglect, Oil On Canvas Board";
     text-align: center;
-    padding-top: 135px;
     color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
@@ -300,11 +298,10 @@ overflow: hidden;
 }
 
 .gallery-image-4.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
+    background:rgba(0, 0, 0, 0.6);
     font-size: 18px;
     content: "Television Static, Oil On Canvas";
     text-align: center;
-    padding-top: 135px;
     color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
@@ -312,11 +309,10 @@ overflow: hidden;
 }
 
 .gallery-image-5.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
+    background:rgba(0, 0, 0, 0.6);
     font-size: 18px;
     content: "Disturbances, Oil On Canvas";
     text-align: center;
-    padding-top: 135px;
     color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
@@ -324,11 +320,10 @@ overflow: hidden;
 }
 
 .gallery-image-6.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
+    background:rgba(0, 0, 0, 0.6);
     font-size: 18px;
     content: "Treasured Memories, Oil On Canvas";
     text-align: center;
-    padding-top: 135px;
     color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
@@ -376,11 +371,10 @@ overflow: hidden;
 /*psesudo effects for acrylics---------------------------------------------------------------------------------- */
 
 .gallery-image-7.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
+    background:rgba(0, 0, 0, 0.6);
     font-size: 18px;
     content: "A Journey To Feeling Whole, Acrylic On Canvas Board";
     text-align: center;
-    padding-top: 135px;
     color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
@@ -388,11 +382,10 @@ overflow: hidden;
 }
 
 .gallery-image-8.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
+    background:rgba(0, 0, 0, 0.6);
     font-size: 18px;
     content: "Cabinet Of Curiosity A Commemoration, Acrylic On Canvas Board";
     text-align: center;
-    padding-top: 135px;
     color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
@@ -400,11 +393,10 @@ overflow: hidden;
 }
 
 .gallery-image-9.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
+    background:rgba(0, 0, 0, 0.6);
     font-size: 18px;
     content: "Cabinet Of Curiosity Happyness, Acrylic On Canvas Board";
     text-align: center;
-    padding-top: 135px;
     color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
@@ -412,11 +404,10 @@ overflow: hidden;
 }
 
 .gallery-image-10.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
+    background:rgba(0, 0, 0, 0.6);
     font-size: 18px;
     content: "A Study Of Hands 2, Acrylic On Canvas Board";
     text-align: center;
-    padding-top: 135px;
     color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
@@ -424,11 +415,10 @@ overflow: hidden;
 }
 
 .gallery-image-11.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
+    background:rgba(0, 0, 0, 0.6);
     font-size: 18px;
     content: "A Study Of Hands 3, Acrylic On Canvas Board";
     text-align: center;
-    padding-top: 135px;
     color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
@@ -436,11 +426,10 @@ overflow: hidden;
 }
 
 .gallery-image-12.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
+    background:rgba(0, 0, 0, 0.6);
     font-size: 18px;
     content: "A Study Of Hands 4, Acrylic On Canvas Board";
     text-align: center;
-    padding-top: 135px;
     color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
@@ -488,11 +477,10 @@ overflow: hidden;
 /*psesudo effects for digital-and-sketches---------------------------------------------------------------------------------- */
 
 .gallery-image-13.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
+    background:rgba(0, 0, 0, 0.6);
     font-size: 18px;
     content: "Routine Coffee 2, Digital";
     text-align: center;
-    padding-top: 135px;
     color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
@@ -500,11 +488,10 @@ overflow: hidden;
 }
 
 .gallery-image-14.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
+    background:rgba(0, 0, 0, 0.6);
     font-size: 18px;
     content: "Routine Coffee 4, Digital";
     text-align: center;
-    padding-top: 135px;
     color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
@@ -512,11 +499,10 @@ overflow: hidden;
 }
 
 .gallery-image-15.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
+    background:rgba(0, 0, 0, 0.6);
     font-size: 18px;
     content: "Routine Coffee 5, Digital";
     text-align: center;
-    padding-top: 135px;
     color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
@@ -524,11 +510,10 @@ overflow: hidden;
 }
 
 .gallery-image-16.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
+    background:rgba(0, 0, 0, 0.6);
     font-size: 18px;
     content: "Routine Yoga 1, Digital";
     text-align: center;
-    padding-top: 135px;
     color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
@@ -536,11 +521,10 @@ overflow: hidden;
 }
 
 .gallery-image-17.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
+    background:rgba(0, 0, 0, 0.6);
     font-size: 18px;
     content: "Routine Yoga 3, Digital";
     text-align: center;
-    padding-top: 135px;
     color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
@@ -548,11 +532,10 @@ overflow: hidden;
 }
 
 .gallery-image-18.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.2);
+    background:rgba(0, 0, 0, 0.6);
     font-size: 18px;
     content: "Routine Yoga 5, Digital";
     text-align: center;
-    padding-top: 135px;
     color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
@@ -702,4 +685,5 @@ section div div h2 i {
 .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16{
     height:100%;
 }
+
 }
