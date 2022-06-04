@@ -174,8 +174,8 @@ textarea, input {
 
 /*containers---------------------------------------------------------------------------------- */
 .container-custom{
-    margin-top:80px;
-    margin-bottom: 80px;
+    margin-top:5rem;
+    margin-bottom: 5rem;
     border-radius: 15px;
     border-style: dashed;
     border-width: 3px;
@@ -220,6 +220,15 @@ textarea, input {
 .breakout-container {
     margin-bottom: 5rem;
     margin-top: 5rem;
+}
+
+.commission-container{
+    margin-top: 13em;
+    border-radius: 15px;
+    border-style: dashed;
+    border-width: 3px;
+    border-color: black;
+    width: 90%;
 }
 /*Gallery---------------------------------------------------------------------------------- */
 
