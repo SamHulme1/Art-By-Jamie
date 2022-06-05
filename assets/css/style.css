@@ -82,6 +82,12 @@ container-map{
     margin-right:2em;
 }
 
+
+/*buttons---------------------------------------------------------------------------------- */
+
+button{
+    border: none;
+}
 /*colours---------------------------------------------------------------------------------- */
 body {
      background-color: white;
@@ -641,23 +647,21 @@ section div div h2 i {
 
 .hover-change:hover{
     color: #E9A2CC;
-    font-size: 30px;
 }
 
 .submit-button:hover{
-    font-size: 50px;
     width: 200px;
     color: #E9A2CC;
+    background-color: rgb(158,230,148);
+    border:none;
 }
 .hover-change-footer:hover{
     color: #E9A2CC;
-    font-size: 20px;
     text-decoration: none;
 }
 
 .hover-change-callout:hover{
     color: #E9A2CC;
-    font-size: 90px;
     text-decoration: none;
 }
 /*media screens---------------------------------------------------------------------------------- */
