@@ -156,13 +156,11 @@ textarea, input {
 }
 
 #hero-image {
-    border-radius: 15px;
     width:100%;
 }
 
 .hero-image:hvr-sweep-to-top{
-    z-index:1;
-    background-color: #A8CCFF;
+    
 }
 
 /*About ---------------------------------------------------------------------------------- */
