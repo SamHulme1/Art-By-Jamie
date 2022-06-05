@@ -106,7 +106,7 @@ a {
 /*Headings and text---------------------------------------------------------------------------------- */
 
 #active {
-    color: white;
+    color: #E9A2CC;
     font-size: 30px;
 }
 
@@ -157,10 +157,6 @@ textarea, input {
 
 #hero-image {
     width:100%;
-}
-
-.hero-image:hvr-sweep-to-top{
-    
 }
 
 /*About ---------------------------------------------------------------------------------- */
@@ -645,24 +641,23 @@ section div div h2 i {
 /*pseudo elements--------------------------------------------------------------------------- */
 
 .hover-change:hover{
-    color: white;
+    color: #E9A2CC;
     font-size: 30px;
 }
 
 .submit-button:hover{
-    background-color: #A8CCFF;
     font-size: 50px;
     width: 200px;
-    color: white;
+    color: #E9A2CC;
 }
 .hover-change-footer:hover{
-    color: white;
+    color: #E9A2CC;
     font-size: 20px;
     text-decoration: none;
 }
 
 .hover-change-callout:hover{
-    color: white;
+    color: #E9A2CC;
     font-size: 90px;
     text-decoration: none;
 }
@@ -695,7 +690,7 @@ section div div h2 i {
     .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16{
         height:100%;
     }
-        }
+}
 
 @media screen and (max-width: 280px) {    
 
