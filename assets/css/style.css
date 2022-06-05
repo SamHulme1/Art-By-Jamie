@@ -679,6 +679,35 @@ section div div h2 i {
     }
 }
 
+@media screen and (max-width: 640px) {
+       
+    .submit-button {
+        margin:1em 0 0 0;
+    }
+    
+    .heading-one{
+        font-size: 40px;
+    }
+    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16{
+        height:100%;
+    }
+}
+
+
+@media screen and (max-width: 600px) {
+       
+    .submit-button {
+        margin:1em 0 0 0;
+    }
+
+    .heading-one{
+        font-size: 40px;
+    }
+    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16{
+        height:100%;
+    }
+}
+
 
 
 @media screen and (max-width: 393px) {
@@ -696,6 +725,31 @@ section div div h2 i {
 }
 
 @media screen and (max-width: 280px) {    
+
+    .heading-one{
+        font-size: 20px;
+    }
+
+    .heading-2{
+        font-size: 10px;
+    }
+
+    .paragraph-text{
+        font-size: 10px;
+    }
+
+    .icon{
+        font-size: 20px;
+    }
+
+    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16{
+        height:100%;
+
+    }
+
+}
+
+@media screen and (max-width: 240px) {    
 
     .heading-one{
         font-size: 20px;
