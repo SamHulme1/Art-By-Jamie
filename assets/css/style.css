@@ -160,6 +160,11 @@ textarea, input {
     width:100%;
 }
 
+.hero-image:hvr-sweep-to-top{
+    z-index:1;
+    background-color: #A8CCFF;
+}
+
 /*About ---------------------------------------------------------------------------------- */
 .about-information {
     border-radius: 15px;
@@ -270,7 +275,7 @@ overflow: hidden;
     overflow: hidden;
 }
 
-/*psesudo effects for oils---------------------------------------------------------------------------------- */
+/*psesudo effects for oils psesudo originally from cloudflare---------------------------------------------------------------------------------- */
 
 .gallery-image-1.hvr-sweep-to-top:before {
     background:rgba(0, 0, 0, 0.6);
@@ -376,7 +381,7 @@ overflow: hidden;
 }
 
 
-/*psesudo effects for acrylics---------------------------------------------------------------------------------- */
+/*psesudo effects for acrylics psesudo originally from cloudflare---------------------------------------------------------------------------------- */
 
 .gallery-image-7.hvr-sweep-to-top:before {
     background:rgba(0, 0, 0, 0.6);
@@ -482,7 +487,7 @@ overflow: hidden;
 }
 
 
-/*psesudo effects for digital-and-sketches---------------------------------------------------------------------------------- */
+/*psesudo effects for digital-and-sketches psesudo originally from cloudflare---------------------------------------------------------------------------------- */
 
 .gallery-image-13.hvr-sweep-to-top:before {
     background:rgba(0, 0, 0, 0.6);
@@ -676,45 +681,45 @@ section div div h2 i {
     .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16{
         height:300px;
     }
-        }
+}
 
 
 
 @media screen and (max-width: 393px) {
        
-.submit-button {
-    margin:1em 0 0 0;
-}
-
-.heading-one{
-    font-size: 40px;
-}
-.gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16{
-    height:100%;
-}
+    .submit-button {
+        margin:1em 0 0 0;
     }
+
+    .heading-one{
+        font-size: 40px;
+    }
+    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16{
+        height:100%;
+    }
+        }
 
 @media screen and (max-width: 280px) {    
 
-.heading-one{
-    font-size: 20px;
-}
+    .heading-one{
+        font-size: 20px;
+    }
 
-.heading-2{
-    font-size: 10px;
-}
+    .heading-2{
+        font-size: 10px;
+    }
 
-.paragraph-text{
-    font-size: 10px;
-}
+    .paragraph-text{
+        font-size: 10px;
+    }
 
-.icon{
-    font-size: 20px;
-}
+    .icon{
+        font-size: 20px;
+    }
 
-.gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16{
-    height:100%;
+    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16{
+        height:100%;
 
-}
+    }
 
 }
