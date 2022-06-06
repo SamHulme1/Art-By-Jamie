@@ -14,7 +14,7 @@ The audience for the site will be other artists and aspiring artists in the the 
 
 ### Target Audience goals: 
 
-## Students/other artists: 
+#### Students/other artists: 
 
 - Relevant written information about what Art by Jamie is about 
 
@@ -26,7 +26,7 @@ The audience for the site will be other artists and aspiring artists in the the 
 
 - Clear and accurate descriptions of artwork
 
-## Employers: 
+#### Employers: 
 
 - Relevant written information about what Art by Jamie is about 
 
@@ -38,7 +38,7 @@ The audience for the site will be other artists and aspiring artists in the the 
 	
 - What the artist specialises in so that they can see if commissioning them would meet their business needs
 
-## Art Gallerys/collectors:
+#### Art Gallerys/collectors:
 
 - Relevant written information about what Art by Jamie is about 
 
@@ -50,9 +50,8 @@ The audience for the site will be other artists and aspiring artists in the the 
 
 
 
-## Artist (business) goals: 
-
-### After interviewing Jamie, I determined that their goals for the site are as follows: 
+#### Artist (business) goals: 
+After interviewing Jamie, I determined that their goals for the site are as follows: 
 
 - To provide a good experience to the users
 
@@ -91,7 +90,8 @@ My goals for the site are as follows:
 
 ### First Time users:
 
-User 1- Student/artist- As a student/artist, I want to be able to
+#### User 1 Student/artist
+ As a student/artist, I want to be able to
 
 - Find and locate information about Jamie easily.
 
@@ -104,7 +104,8 @@ User 1- Student/artist- As a student/artist, I want to be able to
 - I want to be able to contact Jamie to see if they want to collaborate or to ask them more indepth questions(interveiw them)
 - I want to see their social media accounts so that I can follow and connect with them. 
 
-User 2- Gallery/collector-As a gallery, we want to be able to:
+#### User 2 Gallery/collector
+As a gallery, we want to be able to:
 
 - Find out who Jamie is
 
@@ -117,7 +118,8 @@ User 2- Gallery/collector-As a gallery, we want to be able to:
 - Veiw their social media accounts so that I can follow and connect with them. 
 
 
-User 3- Business-As a business, we are looking for an artist to commission. We want to be able to 
+#### User 3 
+ Business-As a business, we are looking for an artist to commission. We want to be able to 
 
 - Find out as much about the artist can their artwork meet our business needs
 
@@ -128,7 +130,7 @@ User 3- Business-As a business, we are looking for an artist to commission. We w
 - Veiw their social media accounts so that I can follow and connect with them. 
  
 
-User4- Artist(Jamie)
+#### User4- Artist(Jamie)
 	
 - See my best work all in one place 
 
@@ -137,7 +139,8 @@ User4- Artist(Jamie)
 ### Returning Users: 
 
 
-User 1- Student/artist- As a student/artist, I want to be able to: 
+#### User 1 Student/artist
+ As a student/artist, I want to be able to: 
 
 - See any updates that Jamie has on their life and art practice
 
@@ -145,21 +148,23 @@ User 1- Student/artist- As a student/artist, I want to be able to:
 
 
 
-User 2- Gallery/collector-As a gallery, we want to be able to:
+#### User 2 Gallery/collector
+As a gallery, we want to be able to:
 
 - See any updates that Jamie has on their life and art practice
 
 - Veiw their newest art work
 
 
-User 3- Business-As a business, we want to be able to: 
+#### User 3 Business
+As a business, we want to be able to: 
 
 - See any updates that Jamie has on their life and art practice
 
 - Veiw their newest art work
 
 
-User4- Artist(Jamie)
+#### User4 Artist(Jamie)
 
 - Display my newest and best artwork 
 
@@ -171,7 +176,7 @@ User4- Artist(Jamie)
 
 When designing this site, I wanted to create something that showcased jamie’s unique and funny personality to the viewer. Originally I started off with a purple and grey colour scheme. However, this was really boring and didn’t achieve the goal that i wanted it to. I had the idea of using one of Jamie’s pieces titled “my creepy children” as a basis for the colour palette on the site. I extracted the colours for the palette using Adobe Colour Wheel. I then experimented with different colour combinations on the website until I found one that I really linked and more importantly Jamie really liked to. 
 
-## Colors: 
+### Colors: 
 
 
 ### Body: 000000:
@@ -302,12 +307,21 @@ In the future the site will have blog section for more interaction with the audi
 
 ## Deployment
 
+### This site is deployed in git hub pages. These steps were taken on deployment
+
+1. Login and locate the repository titled link here art by jamie.
+2. Locate the settings at the top of the repository menu. Make sure not to click the settings at the top of the page,
+3. Scroll down the page, to the left you should be able to see pages under Code and Automation click here. 
+4. Change the source bracnch from none to main using the dropdown menu. 
+5. Doing this will refresh the page, scroll back down and locate the link to the active page. 
+
 ## Testing 
 
 ### Testing clients stories 
 
 
-User 1- Student/artist- As a student/artist, I can easily navigate around the site, finding the relevant information I want. I can read about Art By Jamie, view their artwork, view their social media, and contact them. I can do this by: 
+### User 1- Student/artist
+ As a student/artist, I can easily navigate around the site, finding the relevant information I want. I can read about Art By Jamie, view their artwork, view their social media, and contact them. I can do this by: 
 
 - Navigate around the different pages using the clear and functional navigation elements at the top and  bottom right of the page. Seeing clear user feedback which shows when im on different pages and which links i’m about to click on. 
 - Reading the small about information on the landing page
@@ -318,8 +332,8 @@ User 1- Student/artist- As a student/artist, I can easily navigate around the si
 - Clicking on the links in the footer to view their external social media accounts
 
 
-
-User 2- Gallery/collector-As a gallery we can find information about who Jamie is, view their art style find where they are located, view their social media accounts and contact them. We can do this by: 
+### User 2 Gallery/collector
+As a gallery we can find information about who Jamie is, view their art style find where they are located, view their social media accounts and contact them. We can do this by: 
 
 - Reading the small about information on the landing page
 - Viewing their artwork in the gallery, seeing the different mediums they use in the clearly identifiable different section and see the information about the artwork by clicking on the images. 
@@ -329,7 +343,8 @@ User 2- Gallery/collector-As a gallery we can find information about who Jamie i
 - Clicking on the links in the footer to view their external social media accounts
 - View the map located at the bottom of every page apart from the gallery. 
 
-User 3- Business-As a business, we can found out as much information as possible about the artist and their artwork. Make contact with them to see if they would be interested in working with us. Find out where they are located. View their social media accounts so that we can follow and connect with them. We can do this by:
+### User 3
+ Business-As a business, we can found out as much information as possible about the artist and their artwork. Make contact with them to see if they would be interested in working with us. Find out where they are located. View their social media accounts so that we can follow and connect with them. We can do this by:
 
 
 - Reading the small about information on the landing page
@@ -344,14 +359,16 @@ User 3- Business-As a business, we can found out as much information as possible
 
 
 
-User4- Artist(Jamie) As an artist I can see all of my best work in one place on the site allowing me to showcase what I am about and show my best artwork to employers, artists and gallerys. I can do this by:
+### User4- Artist(Jamie) 
+As an artist I can see all of my best work in one place on the site allowing me to showcase what I am about and show my best artwork to employers, artists and gallerys. I can do this by:
 
 - Looking at the all the information displayed about myself in the about, home and gallery pages. 
 - Having all the relevant information that I wanted displayed in the site in a clean and informative way
 
 
 
-Artist (business) goals have been met by the site by: 
+### Artist (business) 
+goals have been met by the site by: 
 
 
 - Displaying all information in a clear and well structured manor. 
@@ -361,7 +378,7 @@ Artist (business) goals have been met by the site by:
 - Creating an emotion response from the user via the use of images and text. Helping to build an emotional connection with Jamie and their artwork which will help to create an audience/ following of jamies artwork. - Also including information about Jamie’s future plan to help keep the audience updated. 
 
 
-Developer goals have been met by: 
+### Developer goals have been met by: 
 
 - Creating a professional fun and engaging website via the use of design, information and user feedback/interaction across the site. 
 - Revaling Jamie’s personality on the site through my use of colours, styles and fonts. 
