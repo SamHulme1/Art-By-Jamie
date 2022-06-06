@@ -216,7 +216,50 @@ Click here to view wireframes for all four pages of Art By Jame on Desktop, Mobi
 
 ###Current Features:
 
+####Navbar
 
+-The navbar includes the logo for Art By Jamie and menus for each different page across all pages. 
+-The logo includes a link back to the home page. 
+-The links for the different pages all have a class of active when on the appropriate page, making it easy for the user to see which page they're on. 
+-The links have a hover effect so that the user can see the feedback for which link they are about to click on. 
+-The navbar remains fixed to the top across all devices making it easy for the user to navigate around the site. 
+
+####To the top button
+
+-The top the top button acts as a way for the user to get back to the top of the screen on each page. 
+-It includes a link to each page so that the user can just click the button instead of spening large periods of time scrolling. 
+
+####Hero image
+
+-The hero image on the index.html page is a picture of one of Jamie's paintings. The images acts to grab the users attention and displays to them what Art By Jamie is all about. This helps to trigger an emotional response from the user. 
+-The image sets the style for each page that follows e.g colours and fonts where used on the site which work well with this image furthering the emotional response from the user. 
+
+####About Jamie image
+
+
+####Breakout image
+
+-The break out images at the bottom of each page act as a way of dividing written and visual information without drawing too much attention away from the page's content. 
+
+####Callout 
+
+-The callout acts as away of giving users an easier way to go staight to contacting Jamie. 
+
+####About information
+
+-The about information gives the users of the site all the relavant information that they need to know about Jamie. 
+-They help to again trigger an emotional resonse from the viewer. They are placed on sepererate pages in a way that makes the user want to read more about Jamie after seeing the first about information on the home page. 
+
+####Interactive gallery
+
+-The gallery features all of Jamie's best art work 
+-The gallery is responsive across all devices 
+-The gallery uses a hover effect to break up written and visual inforamtion so that the user can interact with the images to find the appropriate information instead of being overloaded. 
+
+####Video 
+
+
+####Map
 
 ###Future Features:
 
