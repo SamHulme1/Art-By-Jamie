@@ -184,6 +184,7 @@ textarea, input {
     border-width: 3px;
     border-color: black;
     overflow: hidden;
+    width:90%; 
 }
 
 .hero-container{

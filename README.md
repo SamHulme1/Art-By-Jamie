@@ -1,5 +1,9 @@
 # Art by Jamie 
 
+image here 
+
+To see the live version of the site click here!
+
 ## UX:
 
 ### Project goals: 
@@ -38,6 +42,7 @@ The audience for the site will be other artists and aspiring artists in the the 
 	
 - What the artist specialises in so that they can see if commissioning them would meet their business needs
 
+
 #### Art Gallerys/collectors:
 
 - Relevant written information about what Art by Jamie is about 
@@ -68,8 +73,6 @@ After interviewing Jamie, I determined that their goals for the site are as foll
 The website will feature mainly visual content,  as the audience will contain majority visual people. The other elements within the page will be straightforward, easy to use and flow nicely creating a balance between visual imagery and information. Collectors or businesses will be able to easily find contact information on the site. 
 
 The content on the pages will be easy to navigate around. There will be the navigation bar at the top which clearly labels the different areas of the website. The information on the navbar will be organised in order of user importance. As well as this text areas within the pages will give written ques to were the views should check out next. Such as “commisions are now open” There will be also be a link to the contact form in the footer as well as links to social media and contact details. All this will lead to the user having a good fluid experience on the website. 
-
-
 
 Art by Jamie is a great site for it’s audience because it displays information relevant to the users expectations, all three audiences have well defined and clear pathways that they can take to reach the information they need. The website is structured in a way that priorities the importance of information to to the user. There are also multiple pathways that users can take to reach their end goals(cta points). This makes the site informal an increases user engagement with the different pages.
 
@@ -388,6 +391,8 @@ goals have been met by the site by:
 
 ### Site responsiveness and compatibility 
 
+#### Dev Tools
+
 The site was tested across a variety of different devices to make sure that it is responsive for as many differnet devices as possible, this was done using Google Developer tools. The site was tested on the folloing devices: 
 
 - Blackberry Z30
@@ -418,11 +423,29 @@ The site was tested across a variety of different devices to make sure that it i
 - Nest Hub, Hub Max
 - Iphone 5, SE, 6, 7, 8, X
 
-For the devices that didn't respond as expected. Additional media quiries were created to target and address these issues. Correcting the reposiveness. 
+For the devices that didn't respond as expected. Additional media quiries were created to target and address these issues. Correcting the reposiveness.The site was also tested by friends and family members to test the user experience.
+
+#### Light House 
+
+The site was tested using Lighthouse, After the initial results I improved the site in the following ways: 
+- Changed pseudo highlight from white to pink to improve contrast 
+- Compressed missed images for better performance. 
+- Removed height of breakout images to correct aspect ratio issue.
+- Changed h6 in footer to h3s. 
+- Added meta description to head for better SEO. 
+
+The finals results for the site are as follows: 
+put image here
+
 
 ### Online validators 
 
-### Light house and Chrome Dev tools 
+
+### Manual Tests 
+
+
+## Bugs 
+
 
 ## Credits 
 
