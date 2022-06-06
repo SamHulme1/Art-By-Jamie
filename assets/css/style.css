@@ -674,7 +674,7 @@ section div div h2 i {
     .heading-one{
         font-size: 40px;
     }
-    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16{
+    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16 .gallery-image-17, .gallery-image-18{
         height:300px;
     }
 }
@@ -688,7 +688,7 @@ section div div h2 i {
     .heading-one{
         font-size: 40px;
     }
-    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16{
+    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16 .gallery-image-17, .gallery-image-18{
         height:100%;
     }
 }
@@ -703,7 +703,7 @@ section div div h2 i {
     .heading-one{
         font-size: 40px;
     }
-    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16{
+    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16, .gallery-image-17, .gallery-image-18{
         height:100%;
     }
 }
@@ -722,10 +722,21 @@ section div div h2 i {
         margin:1em 0 0 0;
     }
 
-    .heading-one{
-        font-size: 40px;
+    .heading-2{
+        font-size: 10px;
     }
-    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16{
+
+    .heading-one{
+        font-size: 20px;
+    }
+    .paragraph-text{
+        font-size: 10px;
+    }
+
+    .icon{
+        font-size: 20px;
+    }
+    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16 .gallery-image-17, .gallery-image-18{
         height:100%;
     }
 }
@@ -748,7 +759,7 @@ section div div h2 i {
         font-size: 20px;
     }
 
-    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16{
+    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16 .gallery-image-17, .gallery-image-18{
         height:100%;
 
     }
@@ -780,7 +791,7 @@ section div div h2 i {
         font-size: 20px;
     }
 
-    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16{
+    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16 .gallery-image-17, .gallery-image-18{
         height:100%;
 
     }
