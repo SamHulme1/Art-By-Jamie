@@ -256,11 +256,19 @@ Here is a list of the features that are currently implemented on the webste as w
 - The gallery features all of Jamie's best art work 
 - The gallery is responsive across all devices 
 - The gallery uses a hover effect to break up written and visual inforamtion so that the user can interact with the images to find the appropriate information instead of being overloaded. 
+- Provides alternative indepth descriptions for visually impared users to increase assessibility
 
-#### Video 
+#### Video
+
+-The video features Jamie talking about their work
+-The video is responsive across all devices
+-The video helps to build an emotional connection with the user as they can hear what Jamie sounds like
 
 
 #### Map
+
+- The map shows the location of Art by Jamie to the user 
+- Is responsive accross all devices 
 
 ### Future Features:
 
@@ -301,7 +309,7 @@ In the future the site will have blog section for more interaction with the audi
 
 User 1- Student/artist- As a student/artist, I can easily navigate around the site, finding the relevant information I want. I can read about Art By Jamie, view their artwork, view their social media, and contact them. I can do this by: 
 
-- Navigate around the different pages using the clear and functional navigation elements at the top and bottom right of the page. Seeing clear user feedback which shows when im on different pages and which links i’m about to click on. 
+- Navigate around the different pages using the clear and functional navigation elements at the top and  bottom right of the page. Seeing clear user feedback which shows when im on different pages and which links i’m about to click on. 
 - Reading the small about information on the landing page
 - Viewing their artwork in the gallery, seeing the different mediums they use in the clearly identifiable different section and see the information about the artwork by clicking on the images. 
 - Reading the larger about information on the About Art By Jamie Page
@@ -361,9 +369,35 @@ Developer goals have been met by:
 
 
 
-Site responsiveness and compatibility 
+### Site responsiveness and compatibility 
 
-Online validators 
+### Online validators 
 
-Light house and Chrome Dev tools 
+### Light house and Chrome Dev tools 
+
+## Credits 
+
+### Code
+
+- The code for the video came from embed video option on vimeo
+- Bootstrap 4 was used throughout development to make the site responsive, I used this for layout and used some of Bootstraps classes 
+- Cloudflare was used for the Hover Puesudos used in the gallery
+- I used Google maps generator to get the src for the map, However I only used this for the source
+
+### Content 
+
+- Written content about the artist came from the artist: Jamie Thomas
+- Other written content came from me the developer
+
+### Media 
+
+- All images and videos came from the artist: Jamie Thomas 
+- The images were edited by me the developer to prepare them for the web. I boosted contrasts and cropped them using Adobe Photoshop. 
+
+### Acknowledgements 
+
+- My mentor for the amazing help and support 
+- Other students on slack for their support 
+- Code Institute for the helpful materials and support 
+- Stack overflow and W3C for useful research materials 
 
