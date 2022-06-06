@@ -695,7 +695,7 @@ section div div h2 i {
 
 
 @media screen and (max-width: 600px) {
-       
+
     .submit-button {
         margin:1em 0 0 0;
     }
@@ -708,6 +708,12 @@ section div div h2 i {
     }
 }
 
+@media (min-width: 576px){
+.navbar-expand-sm .navbar-nav .nav-link {
+    padding-right: 0; 
+    padding-left: 0; 
+}
+}
 
 
 @media screen and (max-width: 393px) {
@@ -749,8 +755,15 @@ section div div h2 i {
 
 }
 
-@media screen and (max-width: 240px) {    
+@media screen and (max-width: 253px) {    
+    #active {
+        color: #E9A2CC;
+        font-size: 20px;
+    }
 
+    .navbar li a {
+        font-size: 15px;
+    }
     .heading-one{
         font-size: 20px;
     }
