@@ -313,7 +313,7 @@ In the future the site will have blog section for more interaction with the audi
 2. Locate the settings at the top of the repository menu. Make sure not to click the settings at the top of the page,
 3. Scroll down the page, to the left you should be able to see pages under Code and Automation click here. 
 4. Change the source bracnch from none to main using the dropdown menu. 
-5. Doing this will refresh the page, scroll back down and locate the link to the active page. 
+5. Doing this will refresh the page, scroll back down and locate the link to the active page. Click the link to see the deployed site!
 
 ## Testing 
 
@@ -387,6 +387,38 @@ goals have been met by the site by:
 
 
 ### Site responsiveness and compatibility 
+
+The site was tested across a variety of different devices to make sure that it is responsive for as many differnet devices as possible, this was done using Google Developer tools. The site was tested on the folloing devices: 
+
+- Blackberry Z30
+- Blackberry PlayBook
+- Galaxy Note 3
+- Galaxy Note 2
+- Galaxy S3 
+- Galaxy S8
+- Galaxy S9 Plus
+- Galaxy Tab S4 
+- Galaxy S20 Ultra
+- Galaxy Fold
+- Galaxy A51
+- Kindle Fire HDX
+- LG Optimus L70
+- Microsoft Lumia 550
+- Microsoft Lumia 950
+- Moto G4 
+- Nexus 10, 4, 5, 5X, 6, 6P, 7, 
+- Nokia Lumia 520
+- Nokia N9
+- Pixel 3, 4, 3 XL, 5
+- Ipad mini, Ipad, Ipad Pro
+- Iphone 4, SE, XR, 12 Pro
+- JioPhone 2
+- Ipad air, mini
+- Surface pro 7, Duo
+- Nest Hub, Hub Max
+- Iphone 5, SE, 6, 7, 8, X
+
+For the devices that didn't respond as expected. Additional media quiries were created to target and address these issues. Correcting the reposiveness. 
 
 ### Online validators 
 
