@@ -212,9 +212,15 @@ All the containers appart from the maps were given a border radius, creating a s
 Click here to view wireframes for all four pages of Art By Jame on Desktop, Mobile and Tablet
 
 
-##Features: 
+##Features: Here is a list of the features that are currently implemented on the webste as well as plans for future features: 
 
-###Current Features: 
+###Current Features:
+
+
+
+###Future Features:
+
+In the future the site will have blog section for more interaction with the audience and the Youtube button in the footer will link directly to Jamie's Youtube channel. It does't at the moment because they don't have one but I know that they are planning on creating one in the near future. I will also add an artists C.V to the page once they have gained more experience. 
 
 ##Technologies used: 
 

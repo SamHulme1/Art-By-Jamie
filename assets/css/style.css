@@ -183,7 +183,6 @@ textarea, input {
     border-style: dashed;
     border-width: 3px;
     border-color: black;
-    width: 90%;
     overflow: hidden;
 }
 
