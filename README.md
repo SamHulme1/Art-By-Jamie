@@ -441,7 +441,12 @@ put image here
 ### Online validators 
 
 
-### Manual Tests 
+### Manual Tests run on site
+
+1. Do the all the navigation elements work?
+    - The navigation elements work on the site
+2. Does the feedback on the site work?
+    - The user feedback on the site works well
 
 
 ### Browser testing 
