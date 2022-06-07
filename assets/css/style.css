@@ -177,7 +177,7 @@ textarea, input {
 
 /*containers---------------------------------------------------------------------------------- */
 .container-custom{
-    margin-top:5rem;
+    margin-top:10rem;
     margin-bottom: 5rem;
     border-radius: 15px;
     border-style: dashed;
