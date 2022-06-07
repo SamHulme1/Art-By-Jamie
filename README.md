@@ -268,9 +268,9 @@ Here is a list of the features that are currently implemented on the webste as w
 
 #### Video
 
--The video features Jamie talking about their work
--The video is responsive across all devices
--The video helps to build an emotional connection with the user as they can hear what Jamie sounds like
+- The video features Jamie talking about their work
+- The video is responsive across all devices
+- The video helps to build an emotional connection with the user as they can hear what Jamie sounds like
 
 
 #### Map
