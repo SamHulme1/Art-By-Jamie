@@ -208,7 +208,7 @@ I used google fonts Creepster and Arvo on the site. Creepster added a lot of per
 
 ### Imagery: 
 
-The images on the site all came from Jamie, I choice to use ‘my creepy children’ as the hero image because I wanted it to be the first thing users see when they go onto the site. It injects a lot of personality from the get go, triggering an emotional response from the viewer and visually telling them what Art by Jamie is all about. The images in the gallery where selected by jamie. They were organised into different sections for the different types of artwork jamie wanted to show. This creates a well organised, structured,  visual information layout.  I used the logo and the image in the about section to put a face onto Art by Jamie, creating another emotional response from the user. The image selected in the about section was also used quite literally as a way of painting a picture to show the user what Art by Jamie is all about. In the footer I used easily recognisable icons so that the user can see Jamie’s external social links in a clean and practical manor the icons came from Font Awesome. 	
+The images on the site all came from Jamie, I choice to use ‘my creepy children’ as the hero image because I wanted it to be the first thing users see when they go onto the site. It injects a lot of personality from the get go, triggering an emotional response from the viewer and visually telling them what Art by Jamie is all about. The images in the gallery where selected by jamie. They were organised into different sections for the different types of artwork jamie wanted to show. This creates a well organised, structured,  visual information layout.  I used the logo and the image in the about section to put a face onto Art by Jamie, creating another emotional response from the user. The image selected in the about section was also used quite literally as a way of painting a picture to show the user what Art by Jamie is all about. In the footer I used easily recognisable icons so that the user can see Jamie’s external social links in a clean and practical manor the icons came from Font Awesome. 
 
 ### Styling: 
 
@@ -244,7 +244,7 @@ Here is a list of the features that are currently implemented on the webste as w
 - The image sets the style for each page that follows e.g colours and fonts where used on the site which work well with this image furthering the emotional response from the user. 
 
 #### About Jamie image
-
+- The image is a photograph of Jamie painting. I used this image as a literal visual representation of Jamie painting the picture of what they're all about to the user
 
 #### Breakout image
 
@@ -446,6 +446,7 @@ put image here
 
 ### Browser testing 
 
+The site has been tested on Chrome, Microsoft Edge, Opera and Firefox
 
 ## Bugs 
 

@@ -521,6 +521,8 @@ section div div h2 i {
 .to-the-top a i {
     text-decoration: none;
     color:white;
+    padding-left:0.5em;
+    font-size: large;
 }
 
 /*pseudo elements--------------------------------------------------------------------------- */
