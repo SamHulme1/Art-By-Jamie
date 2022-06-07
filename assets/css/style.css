@@ -149,7 +149,7 @@ textarea, input {
 
 /* images---------------------------------------------------------------------------------- */
 
-#breakout-image {
+.breakout-image {
     width: 10em;
 
     
@@ -157,6 +157,11 @@ textarea, input {
 
 #hero-image {
     width:100%;
+}
+
+
+#about-image {
+    width: 100%;
 }
 
 /*About ---------------------------------------------------------------------------------- */
@@ -285,25 +290,28 @@ object-fit: cover;
     z-index: 1;
 }
 
+#childhood-memories-oil-on-canvas::before {
+    content: "Childhood Memories, Oil On Canvas"
+}
 
-#gallery-image-2:before {
+#controlled-chaos-oil-on-canvas:before {
     content: "Controlled Chaos, Oil On Canvas";
 }
 
-#gallery-image-3:before {
+#neglect-oil-on-canvas-board:before {
     content: "Neglect, Oil On Canvas Board";
 }
 
-#gallery-image-4:before {
+#television-static-oil-on-canvas:before {
     content: "Television Static, Oil On Canvas";
     
 }
 
-#gallery-image-5:before {
+#disturbances-oil-on-canvas {
     content: "Disturbances, Oil On Canvas";
 }
 
-#gallery-image-6.hvr-sweep-to-top:before {
+#treasured-memories-oil-on-canvas:before {
     content: "Treasured Memories, Oil On Canvas";
 }
 
@@ -344,27 +352,27 @@ object-fit: cover;
 
 /*psesudo effects for acrylics psesudo originally from cloudflare---------------------------------------------------------------------------------- */
 
-#gallery-image-7:before {
+#a-journey-to-feeling-whole-acrylic-on-canvas-board:before {
     content: "A Journey To Feeling Whole, Acrylic On Canvas Board";
 }
 
-#gallery-image-8:before {
+#cabinet-of-curiosity-a-commemoration-acrylic-on-canvas-board:before {
     content: "Cabinet Of Curiosity A Commemoration, Acrylic On Canvas Board";
 }
 
-#gallery-image-9:before {
+#cabinet-of-curiosity-happyness-acrylic-on-canvas-board:before {
     content: "Cabinet Of Curiosity Happyness, Acrylic On Canvas Board";
 }
 
-#gallery-image-10:before {
+#a-study-of-hands-2-acrylic-on-canvas-board:before {
     content: "A Study Of Hands 2, Acrylic On Canvas Board";
 }
 
-#gallery-image-11:before {
+#a-study-of-hands-3-acrylic-on-canvas-board:before {
     content: "A Study Of Hands 3, Acrylic On Canvas Board";
 }
 
-#gallery-image-12:before {
+#a-study-of-hands-4-acrylic-on-canvas-board:before {
     content: "A Study Of Hands 4, Acrylic On Canvas Board";
 }
 /*section-3-drawings-and-digital---------------------------------------------------------------------------------- */
@@ -402,27 +410,27 @@ object-fit: cover;
 
 /*psesudo effects for digital-and-sketches psesudo originally from cloudflare---------------------------------------------------------------------------------- */
 
-#gallery-image-13:before {
+#routine-coffee-2-digital:before {
     content: "Routine Coffee 2, Digital";
 }
 
-#gallery-image-14:before {
+#routine-coffee-4-digital:before {
     content: "Routine Coffee 4, Digital";
 }
 
-#gallery-image-15:before {
+#routine-coffee-5-digital:before {
     content: "Routine Coffee 5, Digital";
 }
 
-#gallery-image-16:before {
+#routine-yoga-1-digital:before {
     content: "Routine Yoga 1, Digital";
 }
 
-#gallery-image-17:before {
+#routine-yoga-3-digital:before {
     content: "Routine Yoga 3, Digital";
 }
 
-#gallery-image-18:before {
+#routine-yoga-5-digital:before {
     content: "Routine Yoga 5, Digital";
 }
 
