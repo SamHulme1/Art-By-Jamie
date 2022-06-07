@@ -308,6 +308,8 @@ In the future the site will have blog section for more interaction with the audi
 
 8. Google map generator: used to get the src for the map of wrexham, for some reason I couldn’t get the src from google maps directly. I only used it to get the src not the code. 
 
+9. Adobe Illustrator: To create the favicon.
+
 ## Deployment
 
 ### This site is deployed in git hub pages. These steps were taken on deployment
@@ -490,6 +492,7 @@ Here are some of the bugs that i've found and fixed throught development:
 
 - All images and videos came from the artist: Jamie Thomas 
 - The images were edited by me the developer to prepare them for the web. I boosted contrasts and cropped them using Adobe Photoshop. 
+- Favicon was created by me using Illustrator
 
 ### Acknowledgements 
 
