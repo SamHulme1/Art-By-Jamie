@@ -280,7 +280,7 @@ Here is a list of the features that are currently implemented on the webste as w
 
 ### Future Features:
 
-In the future the site will have blog section for more interaction with the audience and the Youtube button in the footer will link directly to Jamie's Youtube channel. It does't at the moment because they don't have one but I know that they are planning on creating one in the near future. I will also add an artists C.V to the page once they have gained more experience. 
+In the future the site will have blog section for more interaction with the audience and the Youtube button in the footer will link directly to Jamie's Youtube channel. It does't at the moment because they don't have one but I know that they are planning on creating one in the near future. I will also add an artists C.V to the page once they have gained more experience. If i'd had more time I would have also liked to put the images in a carosel so that they could be displayed larger when clicked on. 
 
 ## Technologies used: 
 
@@ -320,7 +320,7 @@ In the future the site will have blog section for more interaction with the audi
 
 ## Testing 
 
-### Testing clients stories 
+### Testing Users Stories 
 
 
 ### User 1- Student/artist
@@ -440,6 +440,13 @@ put image here
 
 ### Online validators 
 
+The final validator results can be seen here
+
+After validation, I fixed the following errors:
+    -Removed loose tags
+    -Added missing tags
+    -Removed unrelavent attributes
+    -corrected elements types, specifically I changed a button to a div and changed labels in the form to headings 
 
 ### Manual Tests run on site
 
@@ -454,7 +461,16 @@ put image here
 The site has been tested on Chrome, Microsoft Edge, Opera and Firefox
 
 ## Bugs 
+Here are some of the bugs that i've found and fixed throught development: 
 
+1. There was a strange _ when hovering over the instagram logo, this was caused by a gab infront of the span.
+2. initially the logo was being displayed behind the navbar. I fixed this by adding float left.
+3. The images overlaped their containers. I fixed this by setting overlap to hidden 
+4. I had to use some inline with logo to change the padding left to 4px. For some reason it wouldn't let me if I targeted it in the style sheet so I did this.
+5. The logo image wasn't dispalying correctly initially. I fixed this by correcting the file path.
+6. Becasue I wanted content in the Cloudflare effects-------------------------------------------------
+7. On smaller screens the gallery images didn't display how I wanted them to due to the set height of 300px. I fixed this by targeting the image ids and the gallery image class so that the height could be set to 100%. This resulted in a nice clean layout for smallerscreens. 
+8. On really small screens the links in the navbar would spill out. I fixed this by targeting them in media screen to scale them down. 
 
 ## Credits 
 

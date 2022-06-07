@@ -36,10 +36,6 @@ container-map{
     height: 120px;
 }
 
-.navbar li {
-    right: 0;
-}
-
 .navbar li a {
     text-align: center;
     line-height: 5px;
