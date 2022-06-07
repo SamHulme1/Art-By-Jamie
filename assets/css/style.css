@@ -11,10 +11,6 @@
     border-style:none;
 }
 
-body {
-    user-select: none;
-}
-
 .nomargin {
     margin:0;
 }
@@ -56,9 +52,9 @@ container-map{
     height: 100px;
     float: left;
     border-radius: 50%;
-    padding:25px;
+    padding:25px; 
     overflow: hidden;
-    background-image: url(../img/art-by-jamie-logo.jpg);
+    background-image:url(../img/art-by-jamie-logo.jpg);
     background-size: 100%;
     border-color: black;
     border-style: dashed;
@@ -236,328 +232,198 @@ textarea, input {
 
 
 /*section-1-oils---------------------------------------------------------------------------------- */
+.gallery-images {
+    width: 100%; 
+    height: 300px; 
+    overflow: hidden;
+}
 
-.gallery-image-1 {
+
+#childhood-memories-oil-on-canvas {
 width: 100%;
 height:300px;
-overflow: hidden;
 object-fit: cover;
 
 }
 
-.gallery-image-2 {
+#controlled-chaos-oil-on-canvas {
     width: 100%;
     height:300px;
-    overflow: hidden;
     object-fit: cover;
 }
 
-.gallery-image-3 {
+#neglect-oil-on-canvas-board {
     width: 100%;
     height:300px;
-    overflow: hidden;
     object-fit: cover;
 }
 
-.gallery-image-4 {
+#television-static-oil-on-canvas{
     width: 100%;
     height:300px;
-    overflow: hidden;
 }
 
-.gallery-image-5 {
+#disturbances-oil-on-canvas {
     width: 100%;
     height:300px;
-    overflow: hidden;
 }
 
-.gallery-image-6 {
+#treasured-memories-oil-on-canvas {
     width: 100%;
     height:300px;
-    overflow: hidden;
 }
 
 /*psesudo effects for oils psesudo originally from cloudflare---------------------------------------------------------------------------------- */
 
-.gallery-image-1.hvr-sweep-to-top:before {
+
+.hvr-sweep-to-top:before {
     background:rgba(0, 0, 0, 0.6);
     font-size: 18px;
-    content: "Childhood Memories, oil on canvas";
     text-align: center;
-    color:white;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
     z-index: 1;
 }
 
-.gallery-image-2.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.6);
-    font-size: 18px;
+
+#gallery-image-2:before {
     content: "Controlled Chaos, Oil On Canvas";
-    text-align: center;
-    color:white;
-    font-family: arvo, sans-serif;
-    letter-spacing: 1px;
-    z-index: 1;
 }
 
-.gallery-image-3.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.6);
-    font-size: 18px;
+#gallery-image-3:before {
     content: "Neglect, Oil On Canvas Board";
-    text-align: center;
-    color:white;
-    font-family: arvo, sans-serif;
-    letter-spacing: 1px;
-    z-index: 1;
 }
 
-.gallery-image-4.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.6);
-    font-size: 18px;
+#gallery-image-4:before {
     content: "Television Static, Oil On Canvas";
-    text-align: center;
-    color:white;
-    font-family: arvo, sans-serif;
-    letter-spacing: 1px;
-    z-index: 1;
+    
 }
 
-.gallery-image-5.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.6);
-    font-size: 18px;
+#gallery-image-5:before {
     content: "Disturbances, Oil On Canvas";
-    text-align: center;
-    color:white;
-    font-family: arvo, sans-serif;
-    letter-spacing: 1px;
-    z-index: 1;
 }
 
-.gallery-image-6.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.6);
-    font-size: 18px;
+#gallery-image-6.hvr-sweep-to-top:before {
     content: "Treasured Memories, Oil On Canvas";
-    text-align: center;
-    color:white;
-    font-family: arvo, sans-serif;
-    letter-spacing: 1px;
-    z-index: 1;
 }
 
 /*section-2-acrylic---------------------------------------------------------------------------------- */
-.gallery-image-7 {
-width: 100%;
-height:300px;
-overflow: hidden;
-}
-    
-.gallery-image-8 {
+#a-journey-to-feeling-whole-acrylic-on-canvas-board {
     width: 100%;
     height:300px;
-    overflow: hidden;
 }
     
-.gallery-image-9 {
+#cabinet-of-curiosity-a-commemoration-acrylic-on-canvas-board {
     width: 100%;
     height:300px;
-    overflow: hidden;
 }
     
-.gallery-image-10 {
+#cabinet-of-curiosity-happyness-acrylic-on-canvas-board {
     width: 100%;
     height:300px;
-    overflow: hidden;
+}
+    
+#a-study-of-hands-2-acrylic-on-canvas-board {
+    width: 100%;
+    height:300px;
     object-fit: cover;
 }
     
-.gallery-image-11 {
+#a-study-of-hands-3-acrylic-on-canvas-board {
     width: 100%;
     height:300px;
-    overflow: hidden;
     object-fit: cover;
 }
     
-.gallery-image-12 {
+#a-study-of-hands-4-acrylic-on-canvas-board {
     width: 100%;
     height:300px;
-    overflow: hidden;
     object-fit: cover;
 }
 
 
 /*psesudo effects for acrylics psesudo originally from cloudflare---------------------------------------------------------------------------------- */
 
-.gallery-image-7.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.6);
-    font-size: 18px;
+#gallery-image-7:before {
     content: "A Journey To Feeling Whole, Acrylic On Canvas Board";
-    text-align: center;
-    color:white;
-    font-family: arvo, sans-serif;
-    letter-spacing: 1px;
-    z-index: 1;
 }
 
-.gallery-image-8.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.6);
-    font-size: 18px;
+#gallery-image-8:before {
     content: "Cabinet Of Curiosity A Commemoration, Acrylic On Canvas Board";
-    text-align: center;
-    color:white;
-    font-family: arvo, sans-serif;
-    letter-spacing: 1px;
-    z-index: 1;
 }
 
-.gallery-image-9.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.6);
-    font-size: 18px;
+#gallery-image-9:before {
     content: "Cabinet Of Curiosity Happyness, Acrylic On Canvas Board";
-    text-align: center;
-    color:white;
-    font-family: arvo, sans-serif;
-    letter-spacing: 1px;
-    z-index: 1;
 }
 
-.gallery-image-10.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.6);
-    font-size: 18px;
+#gallery-image-10:before {
     content: "A Study Of Hands 2, Acrylic On Canvas Board";
-    text-align: center;
-    color:white;
-    font-family: arvo, sans-serif;
-    letter-spacing: 1px;
-    z-index: 1;
 }
 
-.gallery-image-11.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.6);
-    font-size: 18px;
+#gallery-image-11:before {
     content: "A Study Of Hands 3, Acrylic On Canvas Board";
-    text-align: center;
-    color:white;
-    font-family: arvo, sans-serif;
-    letter-spacing: 1px;
-    z-index: 1;
 }
 
-.gallery-image-12.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.6);
-    font-size: 18px;
+#gallery-image-12:before {
     content: "A Study Of Hands 4, Acrylic On Canvas Board";
-    text-align: center;
-    color:white;
-    font-family: arvo, sans-serif;
-    letter-spacing: 1px;
-    z-index: 1;
 }
 /*section-3-drawings-and-digital---------------------------------------------------------------------------------- */
 
-.gallery-image-13 {
+#routine-coffee-2-digital {
     width: 100%;
     height:300px;
-    overflow: hidden;
-    }
-    
-.gallery-image-14 {
-    width: 100%;
-    height:300px;
-    overflow: hidden;
 }
     
-.gallery-image-15 {
+#routine-coffee-4-digital {
     width: 100%;
     height:300px;
-    overflow: hidden;
 }
     
-.gallery-image-16 {
+#routine-coffee-5-digital {
     width: 100%;
     height:300px;
-    overflow: hidden;
 }
     
-.gallery-image-17 {
+#routine-yoga-1-digital {
     width: 100%;
     height:300px;
-    overflow: hidden;
 }
     
-.gallery-image-18 {
+#routine-yoga-3-digital {
     width: 100%;
     height:300px;
-    overflow: hidden;
+}
+    
+#routine-yoga-5-digital {
+    width: 100%;
+    height:300px;
 }
 
 
 /*psesudo effects for digital-and-sketches psesudo originally from cloudflare---------------------------------------------------------------------------------- */
 
-.gallery-image-13.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.6);
-    font-size: 18px;
+#gallery-image-13:before {
     content: "Routine Coffee 2, Digital";
-    text-align: center;
-    color:white;
-    font-family: arvo, sans-serif;
-    letter-spacing: 1px;
-    z-index: 1;
 }
 
-.gallery-image-14.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.6);
-    font-size: 18px;
+#gallery-image-14:before {
     content: "Routine Coffee 4, Digital";
-    text-align: center;
-    color:white;
-    font-family: arvo, sans-serif;
-    letter-spacing: 1px;
-    z-index: 1;
 }
 
-.gallery-image-15.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.6);
-    font-size: 18px;
+#gallery-image-15:before {
     content: "Routine Coffee 5, Digital";
-    text-align: center;
-    color:white;
-    font-family: arvo, sans-serif;
-    letter-spacing: 1px;
-    z-index: 1;
 }
 
-.gallery-image-16.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.6);
-    font-size: 18px;
+#gallery-image-16:before {
     content: "Routine Yoga 1, Digital";
-    text-align: center;
-    color:white;
-    font-family: arvo, sans-serif;
-    letter-spacing: 1px;
-    z-index: 1;
 }
 
-.gallery-image-17.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.6);
-    font-size: 18px;
+#gallery-image-17:before {
     content: "Routine Yoga 3, Digital";
-    text-align: center;
-    color:white;
-    font-family: arvo, sans-serif;
-    letter-spacing: 1px;
-    z-index: 1;
 }
 
-.gallery-image-18.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.6);
-    font-size: 18px;
+#gallery-image-18:before {
     content: "Routine Yoga 5, Digital";
-    text-align: center;
-    color:white;
-    font-family: arvo, sans-serif;
-    letter-spacing: 1px;
-    z-index: 1;
 }
 
 /*Contact Form---------------------------------------------------------------------------------- */
@@ -680,8 +546,8 @@ section div div h2 i {
     .heading-one{
         font-size: 40px;
     }
-    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16 .gallery-image-17, .gallery-image-18{
-        height:300px;
+    #a-journey-to-feeling-whole-acrylic-on-canvas-board, #controlled-chaos-oil-on-canvas, #childhood-memories-oil-on-canvas, #neglect-oil-on-canvas-board, #television-static-oil-on-canvas, #disturbances-oil-on-canvas, #treasured-memories-oil-on-canvas, #cabinet-of-curiosity-a-commemoration-acrylic-on-canvas-board, #cabinet-of-curiosity-happyness-acrylic-on-canvas-board, #a-study-of-hands-2-acrylic-on-canvas-board, #a-study-of-hands-3-acrylic-on-canvas-board, #a-study-of-hands-4-acrylic-on-canvas-board, #routine-coffee-2-digital, #routine-coffee-4-digital, #routine-coffee-5-digital, #routine-yoga-1-digital, #routine-yoga-3-digital, #routine-yoga-5-digital, .gallery-images  {
+        height:100%;
     }
 }
 
@@ -694,7 +560,7 @@ section div div h2 i {
     .heading-one{
         font-size: 40px;
     }
-    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16 .gallery-image-17, .gallery-image-18{
+    #a-journey-to-feeling-whole-acrylic-on-canvas-board, #controlled-chaos-oil-on-canvas, #childhood-memories-oil-on-canvas, #neglect-oil-on-canvas-board, #television-static-oil-on-canvas, #disturbances-oil-on-canvas, #treasured-memories-oil-on-canvas, #cabinet-of-curiosity-a-commemoration-acrylic-on-canvas-board, #cabinet-of-curiosity-happyness-acrylic-on-canvas-board, #a-study-of-hands-2-acrylic-on-canvas-board, #a-study-of-hands-3-acrylic-on-canvas-board, #a-study-of-hands-4-acrylic-on-canvas-board, #routine-coffee-2-digital, #routine-coffee-4-digital, #routine-coffee-5-digital, #routine-yoga-1-digital, #routine-yoga-3-digital, #routine-yoga-5-digital, .gallery-images  {
         height:100%;
     }
 }
@@ -708,7 +574,7 @@ section div div h2 i {
     .heading-one{
         font-size: 40px;
     }
-    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16 .gallery-image-17, .gallery-image-18{
+    #a-journey-to-feeling-whole-acrylic-on-canvas-board, #controlled-chaos-oil-on-canvas, #childhood-memories-oil-on-canvas, #neglect-oil-on-canvas-board, #television-static-oil-on-canvas, #disturbances-oil-on-canvas, #treasured-memories-oil-on-canvas, #cabinet-of-curiosity-a-commemoration-acrylic-on-canvas-board, #cabinet-of-curiosity-happyness-acrylic-on-canvas-board, #a-study-of-hands-2-acrylic-on-canvas-board, #a-study-of-hands-3-acrylic-on-canvas-board, #a-study-of-hands-4-acrylic-on-canvas-board, #routine-coffee-2-digital, #routine-coffee-4-digital, #routine-coffee-5-digital, #routine-yoga-1-digital, #routine-yoga-3-digital, #routine-yoga-5-digital, .gallery-images  {
         height:100%;
     }
 }
@@ -723,7 +589,7 @@ section div div h2 i {
     .heading-one{
         font-size: 40px;
     }
-    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16, .gallery-image-17, .gallery-image-18{
+    #a-journey-to-feeling-whole-acrylic-on-canvas-board, #controlled-chaos-oil-on-canvas, #childhood-memories-oil-on-canvas, #neglect-oil-on-canvas-board, #television-static-oil-on-canvas, #disturbances-oil-on-canvas, #treasured-memories-oil-on-canvas, #cabinet-of-curiosity-a-commemoration-acrylic-on-canvas-board, #cabinet-of-curiosity-happyness-acrylic-on-canvas-board, #a-study-of-hands-2-acrylic-on-canvas-board, #a-study-of-hands-3-acrylic-on-canvas-board, #a-study-of-hands-4-acrylic-on-canvas-board, #routine-coffee-2-digital, #routine-coffee-4-digital, #routine-coffee-5-digital, #routine-yoga-1-digital, #routine-yoga-3-digital, #routine-yoga-5-digital, .gallery-images  {
         height:100%;
     }
 }
@@ -756,7 +622,7 @@ section div div h2 i {
     .icon{
         font-size: 20px;
     }
-    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16 .gallery-image-17, .gallery-image-18{
+    #a-journey-to-feeling-whole-acrylic-on-canvas-board, #controlled-chaos-oil-on-canvas, #childhood-memories-oil-on-canvas, #neglect-oil-on-canvas-board, #television-static-oil-on-canvas, #disturbances-oil-on-canvas, #treasured-memories-oil-on-canvas, #cabinet-of-curiosity-a-commemoration-acrylic-on-canvas-board, #cabinet-of-curiosity-happyness-acrylic-on-canvas-board, #a-study-of-hands-2-acrylic-on-canvas-board, #a-study-of-hands-3-acrylic-on-canvas-board, #a-study-of-hands-4-acrylic-on-canvas-board, #routine-coffee-2-digital, #routine-coffee-4-digital, #routine-coffee-5-digital, #routine-yoga-1-digital, #routine-yoga-3-digital, #routine-yoga-5-digital, .gallery-images  {
         height:100%;
     }
 }
@@ -779,9 +645,8 @@ section div div h2 i {
         font-size: 20px;
     }
 
-    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16 .gallery-image-17, .gallery-image-18{
+    #a-journey-to-feeling-whole-acrylic-on-canvas-board, #controlled-chaos-oil-on-canvas, #childhood-memories-oil-on-canvas, #neglect-oil-on-canvas-board, #television-static-oil-on-canvas, #disturbances-oil-on-canvas, #treasured-memories-oil-on-canvas, #cabinet-of-curiosity-a-commemoration-acrylic-on-canvas-board, #cabinet-of-curiosity-happyness-acrylic-on-canvas-board, #a-study-of-hands-2-acrylic-on-canvas-board, #a-study-of-hands-3-acrylic-on-canvas-board, #a-study-of-hands-4-acrylic-on-canvas-board, #routine-coffee-2-digital, #routine-coffee-4-digital, #routine-coffee-5-digital, #routine-yoga-1-digital, #routine-yoga-3-digital, #routine-yoga-5-digital, .gallery-images  {
         height:100%;
-
     }
 
 }
@@ -811,9 +676,8 @@ section div div h2 i {
         font-size: 20px;
     }
 
-    .gallery-image-1, .gallery-image-2, .gallery-image-3, .gallery-image-4, .gallery-image-5, .gallery-image-6, .gallery-image-7, .gallery-image-8, .gallery-image-9, .gallery-image-10, .gallery-image-11, .gallery-image-12, .gallery-image-13, .gallery-image-14, .gallery-image-15, .gallery-image-16 .gallery-image-17, .gallery-image-18{
+    #a-journey-to-feeling-whole-acrylic-on-canvas-board, #controlled-chaos-oil-on-canvas, #childhood-memories-oil-on-canvas, #neglect-oil-on-canvas-board, #television-static-oil-on-canvas, #disturbances-oil-on-canvas, #treasured-memories-oil-on-canvas, #cabinet-of-curiosity-a-commemoration-acrylic-on-canvas-board, #cabinet-of-curiosity-happyness-acrylic-on-canvas-board, #a-study-of-hands-2-acrylic-on-canvas-board, #a-study-of-hands-3-acrylic-on-canvas-board, #a-study-of-hands-4-acrylic-on-canvas-board, #routine-coffee-2-digital, #routine-coffee-4-digital, #routine-coffee-5-digital, #routine-yoga-1-digital, #routine-yoga-3-digital, #routine-yoga-5-digital, .gallery-images  {
         height:100%;
-
     }
 
 }
