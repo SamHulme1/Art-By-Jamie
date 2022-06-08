@@ -1,8 +1,7 @@
 # Art by Jamie 
-
-image here 
-
 To see the live version of the site click [here!](https://samhulme1.github.io/art-by-jamie/)
+
+![mockup-image](assets/img/readme-images/mockup.png)
 
 ## Contents
 
@@ -196,8 +195,9 @@ When designing this site, I wanted to create something that showcased jamie’s 
 
 ### Colors: 
 
+![colour-pallete](assets/img/readme-images/colors.png)
 
-### Body: 000000:
+### Body: #000000:
 
  This created a background that made the foreground colours pop and stand out. 
 
@@ -205,19 +205,21 @@ When designing this site, I wanted to create something that showcased jamie’s 
 
 This green added a nice contrast with the white background and black text. 
 
-### Title, form and about information sections: E9A2CC
+### Title, form and about information sections: #E9A2CC
 
 This pink again created a nice contrast with the black text colour and really helped to highlight sections. 
 
-### Footer: F2CC0C
+### Footer: #F2CC0C
 
 The colour used in the footer is the one that I am most conflicted about, although it does add some nice diferansiation from the pink and green. The black text also looks nice over the yellow. 
 
-### Text: 000000, FFFFFF
+### Text: #000000, #E9A2CC
 
-I used black for all the text on the site keeping consistency. I added white to the hover puedos to contrast with black text. 
+I used black for all the text on the site keeping consistency. I added pink to the hover puedos to contrast with black text. 
 
-### Fonts: 
+### Fonts:
+![font-creepster](assets/img/readme-images/font-creepster.png)
+![font-arvo](assets/img/readme-images/font-arvo.png) 
 
 I used google fonts Creepster and Arvo on the site. Creepster added a lot of personality to the headings and titles. It also really complimented the colours and imagery of jamies Art. Whilst the Arvo created a nice ballance and added elegance to the written information sections making it easy for the user to read. 
 
@@ -232,7 +234,9 @@ All the containers appart from the maps were given a border radius, creating a s
 
 ## WireFrames: 
 
-Click here to view wireframes for all four pages of Art By Jame on Desktop, Mobile and Tablet
+![wireframes](assets/img/readme-images/art-by-jamie-wireframe.png)
+
+Here are the wireframes for all four pages of Art By Jame on Desktop, Mobile and Tablet
 
 
 ## Features: 
