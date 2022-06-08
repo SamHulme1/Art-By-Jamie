@@ -245,61 +245,85 @@ Here is a list of the features that are currently implemented on the webste as w
 ### Current Features:
 
 #### Navbar
-
+![navbar-feature](assets/img/readme-images/navbar-feature.png)
 - The navbar includes the logo for Art By Jamie and menus for each different page across all pages. 
 - The logo includes a link back to the home page. 
 - The links for the different pages all have a class of active when on the appropriate page, making it easy for the user to see which page they're on. 
 - The links have a hover effect so that the user can see the feedback for which link they are about to click on. 
 - The navbar remains fixed to the top across all devices making it easy for the user to navigate around the site. 
+- Is resposive accross all devices
 
 #### To the top button
-
+![to-the-top-feature](assets/img/readme-images/to-the-top-feature.png)
 - The top the top button acts as a way for the user to get back to the top of the screen on each page. 
 - It includes a link to each page so that the user can just click the button instead of spening large periods of time scrolling. 
+- Is resposive accross all devices
 
 #### Hero image
-
+![hero-image-feature](assets/img/readme-images/hero-image-feature.png)
 - The hero image on the index.html page is a picture of one of Jamie's paintings. The images acts to grab the users attention and displays to them what Art By Jamie is all about. This helps to trigger an emotional response from the user. 
 - The image sets the style for each page that follows e.g colours and fonts where used on the site which work well with this image furthering the emotional response from the user. 
+- Is resposive accross all devices
 
 #### About Jamie image
-- The image is a photograph of Jamie painting. I used this image as a literal visual representation of Jamie painting the picture of what they're all about to the user
+![about-image-feature](assets/img/readme-images/about-image-feature.png)
+- The image is a photograph of Jamie painting. I used this image as a literal visual representation of Jamie painting the picture of what they're all about to the user.
+- Is resposive accross all devices
 
 #### Breakout image
-
+![break-out-image-feature](assets/img/readme-images/breakout-img-feature.png)
 - The break out images at the bottom of each page act as a way of dividing written and visual information without drawing too much attention away from the page's content. 
+- Is resposive accross all devices
 
 #### Callout 
-
+![callout-feature](assets/img/readme-images/callout-feature.png)
 - The callout acts as away of giving users an easier way to go staight to contacting Jamie. 
+- Is resposive accross all devices
 
 #### About information
-
+![about-home-feature](assets/img/readme-images/about-info-home-feature.png)
+![about-info-about-feature](assets/img/readme-images/about-info-about-feature.png)
 - The about information gives the users of the site all the relavant information that they need to know about Jamie. 
 - They help to again trigger an emotional resonse from the viewer. They are placed on sepererate pages in a way that makes the user want to read more about Jamie after seeing the first about information on the home page. 
+- Is resposive accross all devices
 
 #### Interactive gallery
-
+![gallery-feature](assets/img/readme-images/gallery-feature.png)
 - The gallery features all of Jamie's best art work 
 - The gallery is responsive across all devices 
 - The gallery uses a hover effect to break up written and visual inforamtion so that the user can interact with the images to find the appropriate information instead of being overloaded. 
 - Provides alternative indepth descriptions for visually impared users to increase assessibility
 
 #### Video
-
+![video-feature](assets/img/readme-images/video-feature.png)
 - The video features Jamie talking about their work
 - The video is responsive across all devices
 - The video helps to build an emotional connection with the user as they can hear what Jamie sounds like
 
 
 #### Map
-
+![map-feature](assets/img/readme-images/map-feature.png)
 - The map shows the location of Art by Jamie to the user 
 - Is responsive accross all devices 
 
+#### Form
+![form-feature](assets/img/readme-images/form-feature.png)
+- The form gives the users a way of contacting Jamie 
+- Helps to filter contact information into differnt sections for Jamie
+- Is resposive accross all devices
 ### Future Features:
 
 In the future the site will have blog section for more interaction with the audience and the Youtube button in the footer will link directly to Jamie's Youtube channel. It does't at the moment because they don't have one but I know that they are planning on creating one in the near future. I will also add an artists C.V to the page once they have gained more experience. If i'd had more time I would have also liked to put the images in a carosel so that they could be displayed larger when clicked on. 
+
+### Naming Conventions and Structure of Files 
+
+- The files on the site have been named consistently and structored into relivant sections
+- All names contain lowercasing and no special characters
+- The images have been organised into differnet sections. 
+    - The first contains images that are the most inportant on the site: logo, favicon, hero image and about image(page defining images). I wanted them displayed outside of the lower files. 
+    - The lower files (acrylics, digital and drawing, oil, readme images) have been organised in this way to increase readability and to catagorise them into different sections 
+    -where an image has a number after e.g hands-1 this indicates the series number of the painting so 1 is the first etc. 
+    - I have also left images in these files that could be used in the future if the gallery was expanded or on addtional pages etc, adding an element of future proofing to the site. 
 
 ## Technologies used: 
 
