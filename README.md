@@ -236,7 +236,7 @@ All the containers appart from the maps were given a border radius, creating a s
 
 ![wireframes](assets/img/readme-images/art-by-jamie-wireframe.png)
 
-Here are the wireframes for all four pages of Art By Jame on Desktop, Mobile and Tablet
+Here are the wireframes for all four pages of Art By Jame on Desktop, Mobile and Tablet. Although my final side differs slightly from these wireframes. They helped me to create consisitencey accross the site. 
 
 
 ## Features: 
@@ -352,6 +352,10 @@ In the future the site will have blog section for more interaction with the audi
 8. [Google map generator:](https://google-map-generator.com/) used to get the src for the map of wrexham, for some reason I couldn’t get the src from google maps directly. I only used it to get the src not the code. 
 
 9. [Adobe Illustrator:](https://www.adobe.com/uk/products/illustrator.html) To create the favicon.
+
+10. [Google Fonts:](https://fonts.google.com/)
+
+11. [Font Awesome](https://fontawesome.com/)
 
 ## Deployment
 
