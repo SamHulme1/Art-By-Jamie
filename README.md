@@ -3,6 +3,7 @@ To see the live version of the site click [here!](https://samhulme1.github.io/ar
 
 ![mockup-image](assets/img/readme-images/mockup.png)
 
+---
 ## Contents
 
 ### [UX](#ux)
@@ -17,19 +18,19 @@ To see the live version of the site click [here!](https://samhulme1.github.io/ar
 ### [Testing](#testing-1) 
 ### [Bugs](#bugs-1)
 ### [Credits](#credits-1)
-
+---
 ## UX:
 
 ### Project goals: 
 
 The goal of the project is to raise and create an awareness of Jamie’s artwork to other artists, employers and collectors. The website acts as a portfolio for Jamie, showcasing their best artwork. The site will be easy to navigate around and contain information relevant to Jamie.  Information on the website is easy to locate and navigate.
 
-
+---
 ### Target Auidence: 
 
 The audience for the site will be other artists and aspiring artists in the the art community, these artists might be students or other artists wanting to team up and collaborate. Other visitors to the site would be potential employers wanting to employ the artist to work on a project for them, this could also include art gallerys/collectors. 
 
-
+---
 ### Target Audience goals: 
 
 #### Students/other artists: 
@@ -43,7 +44,7 @@ The audience for the site will be other artists and aspiring artists in the the 
 - Contact information
 
 - Clear and accurate descriptions of artwork
-
+---
 #### Employers: 
 
 - Relevant written information about what Art by Jamie is about 
@@ -56,7 +57,7 @@ The audience for the site will be other artists and aspiring artists in the the 
 	
 - What the artist specialises in so that they can see if commissioning them would meet their business needs
 
-
+---
 #### Art Gallerys/collectors:
 
 - Relevant written information about what Art by Jamie is about 
@@ -68,7 +69,7 @@ The audience for the site will be other artists and aspiring artists in the the 
 - Where the artist is located so that they can determine if their work would be relevant to their gallery
 
 
-
+---
 #### Artist (business) goals: 
 After interviewing Jamie, I determined that their goals for the site are as follows: 
 
@@ -81,7 +82,7 @@ After interviewing Jamie, I determined that their goals for the site are as foll
 - To give viewers a way of connecting with Jamie 
 
 - To help to create an audience for Jamie’s artwork
-
+---
 ## User Requirements and Expectations 
 
 The website will feature mainly visual content,  as the audience will contain majority visual people. The other elements within the page will be straightforward, easy to use and flow nicely creating a balance between visual imagery and information. Collectors or businesses will be able to easily find contact information on the site. 
@@ -90,7 +91,7 @@ The content on the pages will be easy to navigate around. There will be the navi
 
 Art by Jamie is a great site for it’s audience because it displays information relevant to the users expectations, all three audiences have well defined and clear pathways that they can take to reach the information they need. The website is structured in a way that priorities the importance of information to to the user. There are also multiple pathways that users can take to reach their end goals(cta points). This makes the site informal an increases user engagement with the different pages.
 
-
+---
 ## Developer goals: 
 
 My goals for the site are as follows: 
@@ -102,7 +103,7 @@ My goals for the site are as follows:
 - To create a project that I could use in my portfolio
 
 
-
+---
 ## User Stories/scenarios: 
 
 ### First Time users:
@@ -120,7 +121,7 @@ My goals for the site are as follows:
 
 - I want to be able to contact Jamie to see if they want to collaborate or to ask them more indepth questions(interveiw them)
 - I want to see their social media accounts so that I can follow and connect with them. 
-
+---
 #### User 2 Gallery/collector
 As a gallery, we want to be able to:
 
@@ -134,7 +135,7 @@ As a gallery, we want to be able to:
 
 - Veiw their social media accounts so that I can follow and connect with them. 
 
-
+---
 #### User 3 
  Business-As a business, we are looking for an artist to commission. We want to be able to 
 
@@ -146,13 +147,13 @@ As a gallery, we want to be able to:
 
 - Veiw their social media accounts so that I can follow and connect with them. 
  
-
+---
 #### User4- Artist(Jamie)
 	
 - See my best work all in one place 
 
 - Showcase my work to employers/artists and gallerys
-
+---
 ### Returning Users: 
 
 
@@ -164,7 +165,7 @@ As a gallery, we want to be able to:
 - Veiw their newest art work
 
 
-
+---
 #### User 2 Gallery/collector
 As a gallery, we want to be able to:
 
@@ -172,7 +173,7 @@ As a gallery, we want to be able to:
 
 - Veiw their newest art work
 
-
+---
 #### User 3 Business
 As a business, we want to be able to: 
 
@@ -180,7 +181,7 @@ As a business, we want to be able to:
 
 - Veiw their newest art work
 
-
+---
 #### User4 Artist(Jamie)
 
 - Display my newest and best artwork 
@@ -193,6 +194,7 @@ As a business, we want to be able to:
 
 When designing this site, I wanted to create something that showcased jamie’s unique and funny personality to the viewer. Originally I started off with a purple and grey colour scheme. However, this was really boring and didn’t achieve the goal that i wanted it to. I had the idea of using one of Jamie’s pieces titled “my creepy children” as a basis for the colour palette on the site. I extracted the colours for the palette using Adobe Colour Wheel. I then experimented with different colour combinations on the website until I found one that I really linked and more importantly Jamie really liked to. 
 
+---
 ### Colors: 
 
 ![colour-pallete](assets/img/readme-images/colors.png)
@@ -217,34 +219,37 @@ The colour used in the footer is the one that I am most conflicted about, althou
 
 I used black for all the text on the site keeping consistency. I added pink to the hover puedos to contrast with black text. 
 
+---
 ### Fonts:
 ![font-creepster](assets/img/readme-images/font-creepster.png)
 ![font-arvo](assets/img/readme-images/font-arvo.png) 
 
 I used google fonts Creepster and Arvo on the site. Creepster added a lot of personality to the headings and titles. It also really complimented the colours and imagery of jamies Art. Whilst the Arvo created a nice ballance and added elegance to the written information sections making it easy for the user to read. 
 
+---
 ### Imagery: 
 
 The images on the site all came from Jamie, I choice to use ‘my creepy children’ as the hero image because I wanted it to be the first thing users see when they go onto the site. It injects a lot of personality from the get go, triggering an emotional response from the viewer and visually telling them what Art by Jamie is all about. The images in the gallery where selected by jamie. They were organised into different sections for the different types of artwork jamie wanted to show. This creates a well organised, structured,  visual information layout.  I used the logo and the image in the about section to put a face onto Art by Jamie, creating another emotional response from the user. The image selected in the about section was also used quite literally as a way of painting a picture to show the user what Art by Jamie is all about. In the footer I used easily recognisable icons so that the user can see Jamie’s external social links in a clean and practical manor the icons came from Font Awesome. 
 
+---
 ### Styling: 
 
 All the containers appart from the maps were given a border radius, creating a slight curve that was move aestheic, the border styles were set to dashed with a 3px size to create the impression that they could be cut out or had been stuck in. This creates a nice consistent art book style. The maps were set to container fluid because I wanted them to stand out and contrast against the other containers. There is also a breakout image on each page to help to break up visual and written information. This results in a more aesthetic, and fluid website. I decided not to include a map on the gallery page because I didn’t want it to distract the user from the visual information in the gallery. I added a pseudo to the images in the gallery to limit the amount of written text on the page. I added the content for each pseudo as names of the pieces so that the user can click on the images to view their details. I decided against adding this to the larger images on the index and about page because I felt that it was too distracting for the user. 
 
-
+---
 ## WireFrames: 
 
 ![wireframes](assets/img/readme-images/art-by-jamie-wireframe.png)
 
 Here are the wireframes for all four pages of Art By Jame on Desktop, Mobile and Tablet. Although my final side differs slightly from these wireframes. They helped me to create consisitencey accross the site. 
 
-
+---
 ## Features: 
 Here is a list of the features that are currently implemented on the webste as well as plans for future features: 
 
 ### Current Features:
 
-#### Navbar
+### Navbar
 ![navbar-feature](assets/img/readme-images/navbar-feature.png)
 - The navbar includes the logo for Art By Jamie and menus for each different page across all pages. 
 - The logo includes a link back to the home page. 
@@ -253,64 +258,65 @@ Here is a list of the features that are currently implemented on the webste as w
 - The navbar remains fixed to the top across all devices making it easy for the user to navigate around the site. 
 - Is resposive accross all devices
 
-#### To the top button
+### To the top button
 ![to-the-top-feature](assets/img/readme-images/to-the-top-feature.png)
 - The top the top button acts as a way for the user to get back to the top of the screen on each page. 
 - It includes a link to each page so that the user can just click the button instead of spening large periods of time scrolling. 
 - Is resposive accross all devices
 
-#### Hero image
+### Hero image
 ![hero-image-feature](assets/img/readme-images/hero-image-feature.png)
 - The hero image on the index.html page is a picture of one of Jamie's paintings. The images acts to grab the users attention and displays to them what Art By Jamie is all about. This helps to trigger an emotional response from the user. 
 - The image sets the style for each page that follows e.g colours and fonts where used on the site which work well with this image furthering the emotional response from the user. 
 - Is resposive accross all devices
 
-#### About Jamie image
+### About Jamie image
 ![about-image-feature](assets/img/readme-images/about-image-feature.png)
 - The image is a photograph of Jamie painting. I used this image as a literal visual representation of Jamie painting the picture of what they're all about to the user.
 - Is resposive accross all devices
 
-#### Breakout image
+### Breakout image
 ![break-out-image-feature](assets/img/readme-images/breakout-img-feature.png)
 - The break out images at the bottom of each page act as a way of dividing written and visual information without drawing too much attention away from the page's content. 
 - Is resposive accross all devices
 
-#### Callout 
+### Callout 
 ![callout-feature](assets/img/readme-images/callout-feature.png)
 - The callout acts as away of giving users an easier way to go staight to contacting Jamie. 
 - Is resposive accross all devices
 
-#### About information
+### About information
 ![about-home-feature](assets/img/readme-images/about-info-home-feature.png)
 ![about-info-about-feature](assets/img/readme-images/about-info-about-feature.png)
 - The about information gives the users of the site all the relavant information that they need to know about Jamie. 
 - They help to again trigger an emotional resonse from the viewer. They are placed on sepererate pages in a way that makes the user want to read more about Jamie after seeing the first about information on the home page. 
 - Is resposive accross all devices
 
-#### Interactive gallery
+### Interactive gallery
 ![gallery-feature](assets/img/readme-images/gallery-feature.png)
 - The gallery features all of Jamie's best art work 
 - The gallery is responsive across all devices 
 - The gallery uses a hover effect to break up written and visual inforamtion so that the user can interact with the images to find the appropriate information instead of being overloaded. 
 - Provides alternative indepth descriptions for visually impared users to increase assessibility
 
-#### Video
+### Video
 ![video-feature](assets/img/readme-images/video-feature.png)
 - The video features Jamie talking about their work
 - The video is responsive across all devices
 - The video helps to build an emotional connection with the user as they can hear what Jamie sounds like
 
 
-#### Map
+### Map
 ![map-feature](assets/img/readme-images/map-feature.png)
 - The map shows the location of Art by Jamie to the user 
 - Is responsive accross all devices 
 
-#### Form
+### Form
 ![form-feature](assets/img/readme-images/form-feature.png)
 - The form gives the users a way of contacting Jamie 
 - Helps to filter contact information into differnt sections for Jamie
 - Is resposive accross all devices
+---
 ### Future Features:
 
 In the future the site will have blog section for more interaction with the audience and the Youtube button in the footer will link directly to Jamie's Youtube channel. It does't at the moment because they don't have one but I know that they are planning on creating one in the near future. I will also add an artists C.V to the page once they have gained more experience. If i'd had more time I would have also liked to put the images in a carosel so that they could be displayed larger when clicked on. 
@@ -332,7 +338,7 @@ In the future the site will have blog section for more interaction with the audi
 1. [HTML5:](https://www.w3schools.com/html/default.asp) To create the structure and the content of the website. 
 
 2. [CSS3:](https://www.w3schools.com/css/) To create the style for the website and it’s content. 
-
+---
 ### Tools and libraries:
 
 1. [GITPOD:](https://www.gitpod.io/) To create the code for the website.
@@ -356,7 +362,7 @@ In the future the site will have blog section for more interaction with the audi
 10. [Google Fonts:](https://fonts.google.com/)
 
 11. [Font Awesome](https://fontawesome.com/)
-
+---
 ## Deployment
 
 ### This site is deployed in git hub pages. These steps were taken on deployment
@@ -383,7 +389,7 @@ In the future the site will have blog section for more interaction with the audi
 - Visiting the contact me page and sending them a direct email message
 - Clicking on the links in the footer to view their external social media accounts
 
-
+---
 ### User 2 Gallery/collector
 As a gallery we can find information about who Jamie is, view their art style find where they are located, view their social media accounts and contact them. We can do this by: 
 
@@ -394,7 +400,7 @@ As a gallery we can find information about who Jamie is, view their art style fi
 - Visiting the contact me page and sending them a direct email message by navigating to the contact page on the navbar or clicking on the links in the callout container or in the footer 
 - Clicking on the links in the footer to view their external social media accounts
 - View the map located at the bottom of every page apart from the gallery. 
-
+---
 ### User 3
  Business-As a business, we can found out as much information as possible about the artist and their artwork. Make contact with them to see if they would be interested in working with us. Find out where they are located. View their social media accounts so that we can follow and connect with them. We can do this by:
 
@@ -407,18 +413,14 @@ As a gallery we can find information about who Jamie is, view their art style fi
 - Clicking on the links in the footer to view their external social media accounts
 - View the map located at the bottom of every page apart from the gallery. 
 	
-
-
-
-
+---
 ### User4- Artist(Jamie) 
 As an artist I can see all of my best work in one place on the site allowing me to showcase what I am about and show my best artwork to employers, artists and gallerys. I can do this by:
 
 - Looking at the all the information displayed about myself in the about, home and gallery pages. 
 - Having all the relevant information that I wanted displayed in the site in a clean and informative way
 
-
-
+---
 ### Artist (business) 
 goals have been met by the site by: 
 
@@ -429,15 +431,14 @@ goals have been met by the site by:
 - Giving users a way of contacting and connecting with jamie via social media and contact information. 
 - Creating an emotion response from the user via the use of images and text. Helping to build an emotional connection with Jamie and their artwork which will help to create an audience/ following of jamies artwork. - Also including information about Jamie’s future plan to help keep the audience updated. 
 
-
+---
 ### Developer goals have been met by: 
 
 - Creating a professional fun and engaging website via the use of design, information and user feedback/interaction across the site. 
 - Revaling Jamie’s personality on the site through my use of colours, styles and fonts. 
 - Creating a front end portfolio ready website that I am proud of. 
 
-
-
+---
 ### Site responsiveness and compatibility 
 
 #### Dev Tools
@@ -474,6 +475,7 @@ The site was tested across a variety of different devices to make sure that it i
 
 For the devices that didn't respond as expected. Additional media quiries were created to target and address these issues. Correcting the reposiveness.The site was also tested by friends and family members to test the user experience.
 
+---
 #### Light House 
 
 The site was tested using Lighthouse, After the initial results I improved the site in the following ways: 
@@ -486,7 +488,7 @@ The site was tested using Lighthouse, After the initial results I improved the s
 The finals results for the site are as follows: 
 put image here
 
-
+---
 ### Online validators 
 
 The final validator results can be seen here
@@ -496,7 +498,7 @@ After validation, I fixed the following errors:
 - Added missing tags
 - Removed unrelavent attributes
 - corrected elements types, specifically I changed a button to a div and changed labels in the form to headings 
-
+---
 ### Manual Tests run on site
 
 1. Do the all the navigation elements work?
@@ -504,7 +506,7 @@ After validation, I fixed the following errors:
 2. Does the feedback on the site work?
     - The user feedback on the site works well
 
-
+---
 ### Browser testing 
 
 The site has been tested on Chrome, Microsoft Edge, Opera and Firefox
