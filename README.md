@@ -7,17 +7,17 @@ To see the live version of the site click [here!](https://samhulme1.github.io/ar
 ## Contents
 
 ### [UX](#ux)
-### [User Requirements and Expectations](#user-requiremnets-and-expectations) 
-### [Developer goals](#developer-goals) 
-### [User Stories/scenarios](#user-storiesscenarios)
-### [Design Choices](#design-choices) 
-### [Wireframes](#wireframes)
-### [Features](#features)
-### [Technologies Used](#technologies-used)
+### [User Requirements and Expectations](#user-requirements-and-expectations-1) 
+### [Developer goals](#developer-goals-1) 
+### [User Stories/scenarios](#user-storiesscenarios-1)
+### [Design Choices](#design-choices-1) 
+### [Wireframes](#wireframes-1)
+### [Features](#features-1)
+### [Technologies Used](#technologies-used-1)
 ### [Depolyment](#deployment) 
-### [Testing](#testing) 
-### [Bugs](#bugs)
-### [Credits](#credits)
+### [Testing](#testing-1) 
+### [Bugs](#bugs-1)
+### [Credits](#credits-1)
 
 ## UX:
 
