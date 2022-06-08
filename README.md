@@ -2,7 +2,22 @@
 
 image here 
 
-To see the live version of the site click here!
+To see the live version of the site click [here!](https://samhulme1.github.io/art-by-jamie/)
+
+## Contents
+
+### [UX](#ux)
+### [User Requirements and Expectations](#user-requiremnets-and-expectations) 
+### [Developer goals](#developer-goals) 
+### [User Stories/scenarios](#user-storiesscenarios)
+### [Design Choices](#design-choices) 
+### [Wireframes](#wireframes)
+### [Features](#features)
+### [Technologies Used](#technologies-used)
+### [Depolyment](#deployment) 
+### [Testing](#testing) 
+### [Bugs](#bugs)
+### [Credits](#credits)
 
 ## UX:
 
@@ -286,37 +301,37 @@ In the future the site will have blog section for more interaction with the audi
 
 ### Languages: 
 
-1. HTML5: To create the structure and the content of the website. 
+1. [HTML5:](https://www.w3schools.com/html/default.asp) To create the structure and the content of the website. 
 
-2. CSS3: To create the style for the website and it’s content. 
+2. [CSS3:](https://www.w3schools.com/css/) To create the style for the website and it’s content. 
 
 ### Tools and libraries:
 
-1. GITPOD: To create the code for the website.
+1. [GITPOD:](https://www.gitpod.io/) To create the code for the website.
 
-2. Adobe Photoshop: to edit the images, ready to be displayed online.
+2. [Adobe Photoshop:](https://www.adobe.com/uk/products/photoshop.html) to edit the images, ready to be displayed online.
 
-3. GITHUB: To store, host and deploy the website .
+3. [GITHUB:](https://github.com/) To store, host and deploy the website .
 
-4. Balsamiq: To create the wireframes for the website.
+4. [Balsamiq:](https://balsamiq.com/wireframes/?gclid=CjwKCAjwkYGVBhArEiwA4sZLuGTzEexF0Kcpb2hzGS4R6E-5vcxNOjKv1cIAJrPG4yCImcQxZ7tIaxoCN7EQAvD_BwE) To create the wireframes for the website.
 
-5. Bootstrap: To add responsiveness to the website so that it performs well on all devices.
+5. [Bootstrap:](https://getbootstrap.com/) To add responsiveness to the website so that it performs well on all devices.
 
-6. CLOUDFLARE: To create the pseudo elements on the gallery images. 
+6. [CLOUDFLARE:](https://cdnjs.cloudflare.com/) To create the pseudo elements on the gallery images. 
 
-7. TinyPNG: To compress the photos for the website so that it has better performance. 
+7. [TinyPNG:](https://tinypng.com/) To compress the photos for the website so that it has better performance. 
 
-8. Google map generator: used to get the src for the map of wrexham, for some reason I couldn’t get the src from google maps directly. I only used it to get the src not the code. 
+8. [Google map generator:](https://google-map-generator.com/) used to get the src for the map of wrexham, for some reason I couldn’t get the src from google maps directly. I only used it to get the src not the code. 
 
-9. Adobe Illustrator: To create the favicon.
+9. [Adobe Illustrator:](https://www.adobe.com/uk/products/illustrator.html) To create the favicon.
 
 ## Deployment
 
 ### This site is deployed in git hub pages. These steps were taken on deployment
 
-1. Login and locate the repository titled link here art by jamie.
+1. Login and locate the repository titled [art by jamie](https://github.com/SamHulme1/art-by-jamie).
 2. Locate the settings at the top of the repository menu. Make sure not to click the settings at the top of the page,
-3. Scroll down the page, to the left you should be able to see pages under Code and Automation click here. 
+3. Scroll down the page, to the left you should be able to see pages under Code and Automation click pages. 
 4. Change the source bracnch from none to main using the dropdown menu. 
 5. Doing this will refresh the page, scroll back down and locate the link to the active page. Click the link to see the deployed site!
 
@@ -445,10 +460,10 @@ put image here
 The final validator results can be seen here
 
 After validation, I fixed the following errors:
-    -Removed loose tags
-    -Added missing tags
-    -Removed unrelavent attributes
-    -corrected elements types, specifically I changed a button to a div and changed labels in the form to headings 
+- Removed loose tags
+- Added missing tags
+- Removed unrelavent attributes
+- corrected elements types, specifically I changed a button to a div and changed labels in the form to headings 
 
 ### Manual Tests run on site
 
