@@ -497,19 +497,3 @@
          height:100%;
     }
 }
-
-/*media screens, I got this fix from medium.com there's a link in the readme for the exact page---------------------------------------------------------------------------------- */
-@media(hover: hover) and 
-(pointer: fine) {
-    .gallery-images-hover:hover{
-        opacity: 1;
-    }
-
-}
-
-@media(hover: hover) and 
-(pointer: coarse) {
-    .gallery-images-hover:hover{
-        opacity: 1;
-    }
-}
