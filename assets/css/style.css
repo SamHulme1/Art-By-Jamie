@@ -276,22 +276,24 @@ object-fit: cover;
 
 /*psesudo effects for oils psesudo originally from cloudflare---------------------------------------------------------------------------------- */
 
-
-.hvr-sweep-to-top:before {
-    background:rgba(0, 0, 0, 0.6);
+.image-description{
+    position: absolute;
+    color: white;
     font-size: 18px;
     text-align: center;
     font-family: arvo, sans-serif;
     letter-spacing: 1px;
     z-index: 1;
+    background:rgba(0, 0, 0, 0.6);
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+    opacity: 0;
 }
 
-#childhood-memories-oil-on-canvas::before {
-    content: "Childhood Memories, Oil On Canvas"
-}
-
-#controlled-chaos-oil-on-canvas:before {
-    content: "Controlled Chaos, Oil On Canvas";
+.gallery-images-hover:hover .image-description{
+    opacity: 1;
 }
 
 #neglect-oil-on-canvas-board:before {
