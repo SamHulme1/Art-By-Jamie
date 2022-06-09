@@ -260,69 +260,69 @@ textarea, input {
 
 /*section-1-oils---------------------------------------------------------------------------------- */
 
-#childhood-memories-oil-on-canvas {
+#childhood-memories {
 width: inherit;
 height:inherit;
 object-fit: cover;
 
 }
 
-#controlled-chaos-oil-on-canvas {
+#controlled-chaos {
     width: inherit;
     height:inherit;
     object-fit: cover;
 }
 
-#neglect-oil-on-canvas-board {
+#neglect-oil {
     width: inherit;
     height:inherit;
     object-fit: cover;
 }
 
-#television-static-oil-on-canvas{
+#television-static{
     width: inherit;
     height:inherit;
 }
 
-#disturbances-oil-on-canvas {
+#disturbances {
     width: inherit;
     height:inherit;
 }
 
-#treasured-memories-oil-on-canvas {
+#treasured-memories {
     width: inherit;
     height:inherit;
 }
 
 /*section-2-acrylic---------------------------------------------------------------------------------- */
-#a-journey-to-feeling-whole-acrylic-on-canvas-board {
+#a-journey-to-feeling-whole {
     width: inherit;
     height:inherit;
 }
     
-#cabinet-of-curiosity-a-commemoration-acrylic-on-canvas-board {
+#cabinet-of-curiosity-a-commemoration {
     width: inherit;
     height:inherit;
 }
     
-#cabinet-of-curiosity-happyness-acrylic-on-canvas-board {
+#cabinet-of-curiosity-happyness {
     width: inherit;
     height:inherit;
 }
     
-#a-study-of-hands-2-acrylic-on-canvas-board {
-    width: inherit;
-    height:inherit;
-    object-fit: cover;
-}
-    
-#a-study-of-hands-3-acrylic-on-canvas-board {
+#a-study-of-hands-series-2 {
     width: inherit;
     height:inherit;
     object-fit: cover;
 }
     
-#a-study-of-hands-4-acrylic-on-canvas-board {
+#a-study-of-hands-series-3 {
+    width: inherit;
+    height:inherit;
+    object-fit: cover;
+}
+    
+#a-study-of-hands-series-4 {
     width: inherit;
     height:inherit;
     object-fit: cover;
@@ -331,34 +331,35 @@ object-fit: cover;
 
 /*section-3-drawings-and-digital---------------------------------------------------------------------------------- */
 
-#routine-coffee-2-digital {
+#routine-coffee-series-2 {
     width: inherit;
     height:inherit;
 }
     
-#routine-coffee-4-digital {
+#routine-coffee-series-4 {
     width: inherit;
     height:inherit;
 }
     
-#routine-coffee-5-digital {
+#routine-coffee-series-5 {
     width: inherit;
     height:inherit;
 }
     
-#routine-yoga-1-digital {
+#routine-yoga-series-1 {
     width: inherit;
     height:inherit;
 }
     
-#routine-yoga-3-digital {
+#routine-yoga-series-3 {
     width: inherit;
     height:inherit;
 }
     
-#routine-yoga-5-digital {
+#routine-yoga-series-5 {
     width: inherit;
     height:inherit;
+    
 }
 
 

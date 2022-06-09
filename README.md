@@ -519,7 +519,7 @@ Here are some of the bugs that i've found and fixed throught development:
 3. The images overlaped their containers. I fixed this by setting overlap to hidden 
 4. I had to use some inline with logo to change the padding left to 4px. For some reason it wouldn't let me if I targeted it in the style sheet so I did this.
 5. The logo image wasn't dispalying correctly initially. I fixed this by correcting the file path.
-6. Becasue I wanted content in the Cloudflare effects-------------------------------------------------
+6. Becasue I wanted content in the Cloudflare effects, This didn't work as expected so I had to create my own overlay for the images, this fixed this issue and I removed Cloudflare effects from the site afterwards. 
 7. On smaller screens the gallery images didn't display how I wanted them to due to the set height of 300px. I fixed this by targeting the image ids and the gallery image class so that the height could be set to 100%. This resulted in a nice clean layout for smallerscreens. 
 8. On really small screens the links in the navbar would spill out. I fixed this by targeting them in media screen to scale them down. 
 
