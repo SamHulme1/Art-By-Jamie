@@ -201,7 +201,7 @@
      font-family: arvo, sans-serif;
      letter-spacing: 1px;
      z-index: 1;
-     background: black transparent;
+     background: black;
      background:rgba(0, 0, 0, 0.6);
      left:0;
      right:0;
