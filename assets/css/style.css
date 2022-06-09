@@ -231,6 +231,11 @@ textarea, input {
 }
 /*Gallery---------------------------------------------------------------------------------- */
 
+.gallery-images {
+    width: 100%; 
+    height: 300px; 
+    overflow: hidden;
+}
 
 /*Gallery-puesdos---------------------------------------------------------------------------------- */
 .image-description{
@@ -254,12 +259,6 @@ textarea, input {
 }
 
 /*section-1-oils---------------------------------------------------------------------------------- */
-.gallery-images {
-    width: 100%; 
-    height: 300px; 
-    overflow: hidden;
-}
-
 
 #childhood-memories-oil-on-canvas {
 width: inherit;
