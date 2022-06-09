@@ -523,6 +523,10 @@ Here are some of the bugs that i've found and fixed throught development:
 7. On smaller screens the gallery images didn't display how I wanted them to due to the set height of 300px. I fixed this by targeting the image ids and the gallery image class so that the height could be set to 100%. This resulted in a nice clean layout for smallerscreens. 
 8. On really small screens the links in the navbar would spill out. I fixed this by targeting them in media screen to scale them down. 
 
+
+### Bugs Left in Code:
+1. In safari the user can select the text in the gallery hover elements, the hover elements still work correctly but the text is selected on clicking. This bug is still in the code because Safari doesn't support userselect. From what i've googled I believe that I would have to fix this using Javascript. But because I haven't studied that yet this will have to be something I iron out later. 
+
 ## Credits 
 
 ### Code
