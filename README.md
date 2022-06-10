@@ -319,7 +319,7 @@ Here is a list of the features that are currently implemented on the website as 
 ---
 ### Future Features:
 
-In the future the site will have a blog section for more interaction with the audience and the Youtube button in the footer will link directly to Jamie's Youtube channel. It doesn't at the moment because they don't have one but I know that they are planning on creating one in the near future. I will also add an artist C.V to the page once they have gained more experience. If I'd had more time I would have also liked to put the images in a carousel so that they could be displayed larger when clicked on. 
+In the future the site will have a blog section for more interaction with the audience and the Youtube button in the footer will link directly to Jamie's Youtube channel. It doesn't at the moment because they don't have one but I know that they are planning on creating one in the near future. I will also add an artist C.V to the page once they have gained more experience. If I'd had more time I would have also liked to put the images in a carousel so that they could be displayed larger when clicked on. There will also be an error 404 page in the future. I had to remove what I had developed for this due to the time limit. 
 
 ### Naming Conventions and Structure of Files 
 
@@ -335,33 +335,42 @@ In the future the site will have a blog section for more interaction with the au
 
 ### Languages: 
 
-1. [HTML5:](https://www.w3schools.com/html/default.asp) To create the structure and the content of the website. 
+1. [HTML5](https://www.w3schools.com/html/default.asp) To create the structure and the content of the website. 
 
-2. [CSS3:](https://www.w3schools.com/css/) To create the style for the website and its content. 
+2. [CSS3](https://www.w3schools.com/css/) To create the style for the website and its content. 
 ---
 ### Tools and libraries:
 
-1. [GITPOD:](https://www.gitpod.io/) To create the code for the website.
+1. [Gitpod](https://www.gitpod.io/) To create the code for the website.
 
-2. [Adobe Photoshop:](https://www.adobe.com/uk/products/photoshop.html) to edit the images, ready to be displayed online.
+2. [Adobe Photoshop](https://www.adobe.com/uk/products/photoshop.html) to edit the images, ready to be displayed online.
 
-3. [GITHUB:](https://github.com/) To store, host and deploy the website.
+3. [Github](https://github.com/) To store, host and deploy the website.
 
-4. [Balsamiq:](https://balsamiq.com/wireframes/?gclid=CjwKCAjwkYGVBhArEiwA4sZLuGTzEexF0Kcpb2hzGS4R6E-5vcxNOjKv1cIAJrPG4yCImcQxZ7tIaxoCN7EQAvD_BwE) To create the wireframes for the website.
+4. [Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAjwkYGVBhArEiwA4sZLuGTzEexF0Kcpb2hzGS4R6E-5vcxNOjKv1cIAJrPG4yCImcQxZ7tIaxoCN7EQAvD_BwE) To create the wireframes for the website.
 
-5. [Bootstrap:](https://getbootstrap.com/) To add responsiveness to the website so that it performs well on all devices.
+5. [Bootstrap](https://getbootstrap.com/) To add responsiveness to the website so that it performs well on all devices.
  
-7. [TinyPNG:](https://tinypng.com/) To compress the photos for the website so that it has better performance. 
+7. [Tinypng](https://tinypng.com/) To compress the photos for the website so that it has better performance. 
 
-8. [Google map generator:](https://google-map-generator.com/) used to get the src for the map of Wrexham, for some reason I couldn’t get the src from google maps directly. I only used it to get the src, not the code. 
+8. [Google map generator](https://google-map-generator.com/) used to get the src for the map of Wrexham, for some reason I couldn’t get the src from google maps directly. I only used it to get the src, not the code. 
 
-9. [Adobe Illustrator:](https://www.adobe.com/uk/products/illustrator.html) To create the favicon.
+9. [Adobe Illustrator](https://www.adobe.com/uk/products/illustrator.html) To create the favicon.
 
-10. [Google Fonts:](https://fonts.google.com/) For the fonts on the site. 
+10. [Google Fonts](https://fonts.google.com/) For the fonts on the site. 
 
 11. [Font Awesome](https://fontawesome.com/) For the icons on the site.
 
 12. [Grammarly](https://app.grammarly.com/) To correct my horrendous spelling.
+
+13. [Adobe Colourwheel](https://app.grammarly.com/) [Coolors](https://coolors.co/0b3954-f17105-bfd7ea-e0ff4f-fefffe) To get the colour palette for the website.
+
+14. [Cloud Convert](https://cloudconvert.com/webp-converter) To make the logo a webp.
+
+15. [Jigsaw](https://jigsaw.w3.org/css-validator/) [Validator](https://validator.w3.org/) To validate.
+
+16. [Cleancss](https://www.cleancss.com/css-beautify/) [Html Formatter](https://htmlformatter.com/) To format code.
+
 ---
 ## Deployment
 
@@ -376,7 +385,6 @@ In the future the site will have a blog section for more interaction with the au
 ## Testing 
 
 ### Testing User's Stories 
-
 
 ### User 1- Student/artist
  As a student/artist, I can easily navigate around the site, finding the relevant information I want. I can read about Art By Jamie, view their artwork, view their social media, and contact them. I can do this by: 
@@ -516,6 +524,8 @@ After validation, I fixed the following errors:
     - The navigation elements work on the site
 2. Does the feedback on the site work?
     - The user feedback on the site works well
+3. All external links open in a new tab
+    - All external links opened in another tab
 
 ---
 ### Browser testing 
@@ -534,34 +544,37 @@ Here are some of the bugs that I've found and fixed throughout development:
 7. On smaller screens the gallery images didn't display how I wanted them to due to the set height of 300px. I fixed this by targeting the image ids and the gallery image class so that the height could be set to 100%. This resulted in a nice clean layout for smaller screens. 
 8. On really small screens the links in the navbar would spill out. I fixed this by targeting them on media screen to scale them down. 
 9. In the gallery the hover effect would flicker when the element was hovered over instead of displaying correctly. I fixed this by using opacity on the overlay instead of display. 
+10. In safari the user can select the text in the gallery hover elements, the hover elements still work correctly but the text is selected on clicking.To fix this I had to create a paragraph element that only appeared on smaller devices. The hover effect was also disabled on smaller devices. This isn't an ideal fix but without javascript it's the best I could do. Shout out to tutors James and Christine for pointing me in the right direction to fix this. I also looked at the follow information on Stackoverflow and W3schools:
 
+    [w3schools-troubleshoot](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.w3schools.com%2Fcssref%2Fpr_class_display.asp%3Ffbclid%3DIwAR112P1EQQwCSCX3Yt6zB4n92VzMLmS6iEX3mYjjBDHNaN0KWLGaTj6kA1Q&h=AT1-XO564Yxx5PDvHjPx6Hepzw2QW_avU4MBizdx-A8yC7he9xZrVZq-m6EpxK2-ti9gQIJKC4wSu1ca_wRe91_xOp8mymyoOj8HFZMZTVXQdjuHuJVXSLcU5R5CHlqvq-N2Qw)
+
+    [stack-overflow-troubleshoot](https://l.facebook.com/l.php?u=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F35187970%2Fcss-hover-not-working-on-ios-safari-and-chrome%3Ffbclid%3DIwAR2LnfUuZXMa1ypDcDKQRkeHj3Xh5LRVlyI2v-AEDpEh2XUxXH_SwLBLEf4&h=AT1-XO564Yxx5PDvHjPx6Hepzw2QW_avU4MBizdx-A8yC7he9xZrVZq-m6EpxK2-ti9gQIJKC4wSu1ca_wRe91_xOp8mymyoOj8HFZMZTVXQdjuHuJVXSLcU5R5CHlqvq-N2Qw)
 
 ### Bugs Left in Code:
-1. In safari the user can select the text in the gallery hover elements, the hover elements still work correctly but the text is selected on clicking. This bug is still in the code because Safari doesn't support user-select. From what I've googled I believe that I would have to fix this using Javascript. But because I haven't studied that yet this will have to be something I iron out later. 
+To my knowledge there are no bugs left in the code!
 
 ## Credits 
 
 ### Code
 
-- The code for the video came from the embed video option on Vimeo
-- Bootstrap 4 was used throughout development to make the site responsive, I used this for layout and used some of Bootstraps classes 
-- I used Google maps generator to get the src for the map, However, I only used this for the source
+- The code for the video came from the embed video option on Vimeo.
+- Bootstrap 4 was used throughout development to make the site responsive, I used this for layout and used some of Bootstraps classes. 
+- I used Google maps generator to get the src for the map, However, I only used this for the source.
 
 ### Content 
 
-- Written content about the artist came from the artist: Jamie Thomas
-- Other written content came from me the developer
+- Written content about the artist came from the artist: Jamie Thomas.
+- Other written content came from me the developer.
 
 ### Media 
 
-- All images and videos came from the artist: Jamie Thomas 
+- All images and videos came from the artist: Jamie Thomas.
 - The images were edited by me the developer to prepare them for the web. I boosted contrasts and cropped them using Adobe Photoshop. 
-- Favicon was created by me using Illustrator
+- Favicon was created by me using Illustrator.
 
 ### Acknowledgements 
 
 - My mentor for the amazing help and support 
 - Other students on slack for their support 
-- Code Institute for the helpful materials and support 
+- Code Institute for the helpful materials and support in particular tutors James and Christine.
 - Stack overflow and W3C for useful research materials 
-
