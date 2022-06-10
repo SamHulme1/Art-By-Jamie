@@ -517,7 +517,7 @@
     }
 }
 /*media screens for hover content on iphones ---------------------------------------------------------------------------------- */
-@media screen and (min-width:320px) and (max-width:414px) {
+@media screen and (min-width:320px) and (max-width:500px) {
     .gallery-images-hover:hover{
         display: none;
    }
