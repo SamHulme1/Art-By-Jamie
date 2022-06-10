@@ -476,7 +476,7 @@ The site was tested across a variety of different devices to make sure that it i
 For the devices that didn't respond as expected. Additional media quiries were created to target and address these issues. Correcting the reposiveness.The site was also tested by friends and family members to test the user experience.
 
 ---
-#### Light House 
+#### LightHouse 
 
 The site was tested using Lighthouse, After the initial results I improved the site in the following ways: 
 - Changed pseudo highlight from white to pink to improve contrast 
@@ -486,12 +486,21 @@ The site was tested using Lighthouse, After the initial results I improved the s
 - Added meta description to head for better SEO. 
 
 The finals results for the site are as follows: 
-put image here
+
+![index-lighthouse](assets/img/readme-images/index-lighthouse.png)
+![gallery-lighthouse](assets/img/readme-images/gallery-lighthouse.png)
+![about-lighthouse](assets/img/readme-images/index-lighthouse.png)
+![contact-lighthouse](assets/img/readme-images/contact-lighthouse.png)
 
 ---
 ### Online validators 
 
-The final validator results can be seen here
+The final validator results can be seen here:
+
+![index-validation](assets/img/readme-images/index-validation.png)
+![gallery-validation](assets/img/readme-images/gallery-validation.png)
+![about-validation](assets/img/readme-images/about-validation.png)
+![contact-validation](assets/img/readme-images/contact-validation.png)
 
 After validation, I fixed the following errors:
 - Removed loose tags
@@ -533,7 +542,6 @@ Here are some of the bugs that i've found and fixed throught development:
 
 - The code for the video came from embed video option on vimeo
 - Bootstrap 4 was used throughout development to make the site responsive, I used this for layout and used some of Bootstraps classes 
-- Cloudflare was used for the Hover Puesudos used in the gallery
 - I used Google maps generator to get the src for the map, However I only used this for the source
 
 ### Content 
