@@ -96,7 +96,7 @@ Art by Jamie is a great site for its audience because it displays information re
 
 My goals for the site are as follows: 
 
-- To create a professional,  fun and engaging site where viewers can see all of the information about Jamie structured in a nice clean way. 
+- To create a professional,  fun and engaging site where viewers can see all of the information about Jamie structured in a nice clean way 
 
 - To showcase Jamie’s personality to the viewer through design choices building an emotional response with the viewer
 
@@ -111,7 +111,7 @@ My goals for the site are as follows:
 #### User 1 Student/artist
  As a student/artist, I want to be able to
 
-- Find and locate information about Jamie easily.
+- Find and locate information about Jamie easily
 
 - I want the information to be clear and descriptive
 
@@ -120,7 +120,7 @@ My goals for the site are as follows:
 - I want to learn about who Art By Jamie is
 
 - I want to be able to contact Jamie to see if they want to collaborate or to ask them more in-depth questions(interview them)
-- I want to see their social media accounts so that I can follow and connect with them. 
+- I want to see their social media accounts so that I can follow and connect with them
 ---
 #### User 2 Gallery/collector
 As a gallery, we want to be able to:
@@ -129,15 +129,15 @@ As a gallery, we want to be able to:
 
 - Find out what their art style is
 
-- Find out where they are located. 
+- Find out where they are located
 
-- Make contact with them to see if they’d want their work to be displayed in our gallery/ see if we could purchase some of their work for our collection. 
+- Make contact with them to see if they’d want their work to be displayed in our gallery/ see if we could purchase some of their work for our collection
 
-- View their social media accounts so that I can follow and connect with them. 
+- View their social media accounts so that I can follow and connect with them
 
 ---
 #### User 3 
- Business-As a business, we are looking for an artist to commission. We want to be able to 
+ Business-As a business, we are looking for an artist to commission. We want to be able to:
 
 - Find out as much about the artist can their artwork meet our business needs
 
@@ -145,10 +145,11 @@ As a gallery, we want to be able to:
 
 - Find out where they’re located, can they commute to a location of our choosing? 
 
-- View their social media accounts so that I can follow and connect with them. 
+- View their social media accounts so that I can follow and connect with them 
  
 ---
 #### User4- Artist(Jamie)
+As an artist, I want a website so that I can:
     
 - See my best work all in one place 
 
@@ -186,7 +187,7 @@ As a business, we want to be able to:
 
 - Display my newest and best artwork 
 
-- Display my evolving art practice in order to meet the needs of other audiences in the future. 
+- Display my evolving art practice in order to meet the needs of other audiences in the future
 
 
 
@@ -201,7 +202,7 @@ When designing this site, I wanted to create something that showcased Jamie's un
 
 ### Body: #000000:
 
- This created a background that made the foreground colours pop and stand out. 
+This created a background that made the foreground colours pop and stand out. 
 
 ### Header and navigation: rgba (158,230,148,0.8)
 
@@ -234,7 +235,7 @@ The images on the site all came from Jamie, I chose to use ‘my creepy children
 ---
 ### Styling: 
 
-All the containers apart from the maps were given a border-radius, creating a slight curve that was more aesthetic, the border styles were set to dashed with a 3px size to create the impression that they could be cut out or had been stuck in. This creates a nice consistent artbook style. The map was set to container fluid because I wanted it to stand out and contrast against the other containers. There is also a breakout image on each page to help to break up visual and written information. This results in a more aesthetic, and fluid website. I added a pseudo to the images in the gallery to limit the amount of written text on the page. I added the content for each pseudo as names of the pieces so that the user can click on the images to view their details. I decided against adding this to the larger images on the index and about page because I felt that it was too distracting for the user. 
+All the containers apart from the map and breakout images were given a border-radius, creating a slight curve that was more aesthetic, the border styles were set to dashed with a 3px size to create the impression that they could be cut out or had been stuck in. This creates a nice consistent artbook style. The map was set to container fluid because I wanted it to stand out and contrast against the other containers. The breakout image on each page helps to break up visual and written information. This results in a more aesthetic, and fluid website. I added a pseudo to the images in the gallery to limit the amount of written text on the page. I added the content for each pseudo as names of the pieces so that the user can click on the images to view their details. I decided against adding this to the larger images on the index and about page because I felt that it was too distracting for the user. 
 
 ---
 ## WireFrames: 
@@ -251,52 +252,52 @@ Here is a list of the features that are currently implemented on the website as 
 
 ### Navbar
 ![navbar-feature](assets/img/readme-images/navbar-feature.png)
-- The navbar includes the logo for Art By Jamie and menus for each different page across all pages. 
-- The logo includes a link back to the home page. 
-- The links for the different pages all have a class of active when on the appropriate page, making it easy for the user to see which page they're on. 
-- The links have a hover effect so that the user can see the feedback for which link they are about to click on. 
-- The navbar remains fixed to the top across all devices making it easy for the user to navigate around the site. 
+- The navbar includes the logo for Art By Jamie and menus for each different page across all pages
+- The logo includes a link back to the home page
+- The links for the different pages all have a class of active when on the appropriate page, making it easy for the user to see which page they're on
+- The links have a hover effect so that the user can see the feedback for which link they are about to click on
+- The navbar remains fixed to the top across all devices making it easy for the user to navigate around the site
 - Is resposive accross all devices
 
 ### To the top button
 ![to-the-top-feature](assets/img/readme-images/to-the-top-feature.png)
-- The to the top button acts as a way for the user to get back to the top of the screen on each page. 
-- It includes a link to each page so that the user can just click the button instead of spending large periods of time scrolling. 
+- The to the top button acts as a way for the user to get back to the top of the screen on each page
+- It includes a link to each page so that the user can just click the button instead of spending large periods of time scrolling
 - Is resposive accross all devices
 
 ### Hero image
 ![hero-image-feature](assets/img/readme-images/hero-image-feature.png)
-- The hero image on the index.html page is a picture of one of Jamie's paintings. The images act to grab the user's attention and display to them what Art By Jamie is all about. This helps to trigger an emotional response from the user. 
-- The image sets the style for each page that follows e.g colours and fonts used on the site which work well with this image furthering the emotional response from the user. 
+- The hero image on the index.html page is a picture of one of Jamie's paintings, the images act to grab the user's attention and display to them what Art By Jamie is all about, This helps to trigger an emotional response from the user
+- The image sets the style for each page that follows e.g colours and fonts used on the site which work well with this image furthering the emotional response from the user 
 - Is resposive accross all devices
 
 ### About Jamie's image
 ![about-image-feature](assets/img/readme-images/about-image-feature.png)
-- The image is a photograph of Jamie's painting. I used this image as a literal visual representation of Jamie painting the picture of what they're all about to the user.
+- The image is a photograph of Jamie's painting, I used this image as a literal visual representation of Jamie painting the picture of what they're all about to the user
 - Is resposive accross all devices
 
 ### Breakout image
 ![break-out-image-feature](assets/img/readme-images/breakout-img-feature.png)
-- The break-out images at the bottom of each page act as a way of dividing written and visual information without drawing too much attention away from the page's content. 
+- The break-out images at the bottom of each page act as a way of dividing written and visual information without drawing too much attention away from the page's content
 - Is resposive accross all devices
 
 ### Callout 
 ![callout-feature](assets/img/readme-images/callout-feature.png)
-- The callout acts as a way of giving users an easier way to go straight to contacting Jamie. 
+- The callout acts as a way of giving users an easier way to go straight to contacting Jamie
 - Is resposive accross all devices
 
 ### About information
 ![about-home-feature](assets/img/readme-images/about-info-home-feature.png)
 ![about-info-about-feature](assets/img/readme-images/about-info-about-feature.png)
-- The about information gives the users of the site all the relevant information that they need to know about Jamie. 
-- They help to again trigger an emotional response from the viewer. They are placed on separate pages in a way that makes the user want to read more about Jamie after seeing the first about information on the home page. 
+- The about information gives the users of the site all the relevant information that they need to know about Jamie 
+- They help to again trigger an emotional response from the viewer, they are placed on separate pages in a way that makes the user want to read more about Jamie after seeing the first about information on the home page
 - Is resposive accross all devices
 
 ### Interactive gallery
 ![gallery-feature](assets/img/readme-images/gallery-feature.png)
 - The gallery features all of Jamie's best artwork 
 - The gallery is responsive across all devices 
-- The gallery uses a hover effect to break up written and visual information so that the user can interact with the images to find the appropriate information instead of being overloaded. 
+- The gallery uses a hover effect to break up written and visual information so that the user can interact with the images to find the appropriate information instead of being overloaded 
 - Provides alternative in-depth descriptions for visually impaired users to increase accessibility
 
 ### Video
@@ -325,51 +326,51 @@ In the future the site will have a blog section for more interaction with the au
 
 - The files on the site have been named consistently and structured into relevant sections
 - All names contain lowercasing and no special characters
-- The images have been organised into different sections. 
-    - The first contains images that are the most important on the site: logo, favicon, hero image and about image(page defining images). I wanted them displayed outside of the lower files. 
+- The images have been organised into different sections
+    - The first contains images that are the most important on the site: logo, favicon, hero image and about image(page defining images), I wanted them displayed outside of the lower files
     - The lower files (acrylics, digital and drawing, oil, readme images) have been organised in this way to increase readability and to categorise them into different sections 
-    -where an image has a number after e.g hands-1 this indicates the series number of the painting so 1 is the first etc. 
-    - I have also left images in these files that could be used in the future if the gallery was expanded or on additional pages etc, adding an element of future-proofing to the site. 
+    -where an image has a number after e.g hands-1 this indicates the series number of the painting so 1 is the first etc
+    - I have also left images in these files that could be used in the future if the gallery was expanded or on additional pages etc, adding an element of future-proofing to the site
 
 ## Technologies used: 
 
 ### Languages: 
 
-1. [HTML5](https://www.w3schools.com/html/default.asp) To create the structure and the content of the website. 
+1. [HTML5](https://www.w3schools.com/html/default.asp) To create the structure and the content of the website
 
-2. [CSS3](https://www.w3schools.com/css/) To create the style for the website and its content. 
+2. [CSS3](https://www.w3schools.com/css/) To create the style for the website and its content
 ---
 ### Tools and libraries:
 
-1. [Gitpod](https://www.gitpod.io/) To create the code for the website.
+1. [Gitpod](https://www.gitpod.io/) To create the code for the website
 
-2. [Adobe Photoshop](https://www.adobe.com/uk/products/photoshop.html) to edit the images, ready to be displayed online.
+2. [Adobe Photoshop](https://www.adobe.com/uk/products/photoshop.html) to edit the images, ready to be displayed online
 
-3. [Github](https://github.com/) To store, host and deploy the website.
+3. [Github](https://github.com/) To store, host and deploy the website
 
-4. [Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAjwkYGVBhArEiwA4sZLuGTzEexF0Kcpb2hzGS4R6E-5vcxNOjKv1cIAJrPG4yCImcQxZ7tIaxoCN7EQAvD_BwE) To create the wireframes for the website.
+4. [Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAjwkYGVBhArEiwA4sZLuGTzEexF0Kcpb2hzGS4R6E-5vcxNOjKv1cIAJrPG4yCImcQxZ7tIaxoCN7EQAvD_BwE) To create the wireframes for the website
 
-5. [Bootstrap](https://getbootstrap.com/) To add responsiveness to the website so that it performs well on all devices.
+5. [Bootstrap](https://getbootstrap.com/) To add responsiveness to the website so that it performs well on all devices
  
-7. [Tinypng](https://tinypng.com/) To compress the photos for the website so that it has better performance. 
+7. [Tinypng](https://tinypng.com/) To compress the photos for the website so that it has better performance 
 
-8. [Google map generator](https://google-map-generator.com/) used to get the src for the map of Wrexham, for some reason I couldn’t get the src from google maps directly. I only used it to get the src, not the code. 
+8. [Google map generator](https://google-map-generator.com/) used to get the src for the map of Wrexham, for some reason I couldn’t get the src from google maps directly, I only used it to get the src, not the code 
 
-9. [Adobe Illustrator](https://www.adobe.com/uk/products/illustrator.html) To create the favicon.
+9. [Adobe Illustrator](https://www.adobe.com/uk/products/illustrator.html) To create the favicon
 
-10. [Google Fonts](https://fonts.google.com/) For the fonts on the site. 
+10. [Google Fonts](https://fonts.google.com/) For the fonts on the site 
 
-11. [Font Awesome](https://fontawesome.com/) For the icons on the site.
+11. [Font Awesome](https://fontawesome.com/) For the icons on the site
 
-12. [Grammarly](https://app.grammarly.com/) To correct my horrendous spelling.
+12. [Grammarly](https://app.grammarly.com/) To correct my horrendous spelling
 
-13. [Adobe Colourwheel](https://app.grammarly.com/) [Coolors](https://coolors.co/0b3954-f17105-bfd7ea-e0ff4f-fefffe) To get the colour palette for the website.
+13. [Adobe Colourwheel](https://app.grammarly.com/) [Coolors](https://coolors.co/0b3954-f17105-bfd7ea-e0ff4f-fefffe) To get the colour palette for the website
 
-14. [Cloud Convert](https://cloudconvert.com/webp-converter) To make the logo a webp.
+14. [Cloud Convert](https://cloudconvert.com/webp-converter) To make the logo a webp
 
-15. [Jigsaw](https://jigsaw.w3.org/css-validator/) [Validator](https://validator.w3.org/) To validate.
+15. [Jigsaw](https://jigsaw.w3.org/css-validator/) [Validator](https://validator.w3.org/) To validate
 
-16. [Cleancss](https://www.cleancss.com/css-beautify/) [Html Formatter](https://htmlformatter.com/) To format code.
+16. [Cleancss](https://www.cleancss.com/css-beautify/) [Html Formatter](https://htmlformatter.com/) To format code
 
 ---
 ## Deployment
@@ -377,9 +378,9 @@ In the future the site will have a blog section for more interaction with the au
 ### This site is deployed in git hub pages. These steps were taken on deployment
 
 1. Login and locate the repository titled [art by jamie](https://github.com/SamHulme1/art-by-jamie).
-2. Locate the settings at the top of the repository menu. Make sure not to click the settings at the top of the page,
-3. Scroll down the page, to the left you should be able to see pages under Code and Automation click pages. 
-4. Change the source branch from none to main using the dropdown menu. 
+2. Locate the settings at the top of the repository menu. Make sure not to click the settings at the top of the page
+3. Scroll down the page, to the left you should be able to see pages under Code and Automation click pages
+4. Change the source branch from none to main using the dropdown menu
 5. Doing this will refresh the page, scroll back down and locate the link to the active page. Click the link to see the deployed site!
 
 ## Testing 
@@ -389,9 +390,9 @@ In the future the site will have a blog section for more interaction with the au
 ### User 1- Student/artist
  As a student/artist, I can easily navigate around the site, finding the relevant information I want. I can read about Art By Jamie, view their artwork, view their social media, and contact them. I can do this by: 
 
-- Navigate around the different pages using the clear and functional navigation elements at the top and bottom right of the page. Seeing clear user feedback which shows when im on different pages and which links I’m about to click on. 
+- Navigating around the different pages using the clear and functional navigation elements at the top and bottom right of the page, seeing clear user feedback which shows when im on different pages and which links I’m about to click on
 - Reading the small about information on the landing page
-- Viewing their artwork in the gallery, seeing the different mediums they use in the clearly identifiable different sections and see the information about the artwork by clicking on the images. 
+- Viewing their artwork in the gallery, seeing the different mediums they use in the clearly identifiable different sections and see the information about the artwork by clicking on the images
 - Reading the larger about information on the About Art By Jamie Page
 - Finding their contact details in the footer at the bottom of every page
 - Visiting the contact me page and sending them a direct email message
@@ -402,30 +403,30 @@ In the future the site will have a blog section for more interaction with the au
 As a gallery we can find information about who Jamie is, view their art style find where they are located, view their social media accounts and contact them. We can do this by: 
 
 - Reading the small about information on the landing page
-- Viewing their artwork in the gallery, seeing the different mediums they use in the clearly identifiable different sections and see the information about the artwork by clicking on the images. 
+- Viewing their artwork in the gallery, seeing the different mediums they use in the clearly identifiable different sections and see the information about the artwork by clicking on the images
 - Reading the larger about information on the About Art By Jamie Page
 - Finding their contact details in the footer at the bottom of every page
 - Visiting the contact me page and sending them a direct email message by navigating to the contact page on the navbar or clicking on the links in the callout container or in the footer 
 - Clicking on the links in the footer to view their external social media accounts
-- View the map located at the bottom of the contact page. 
+- Viewing the map located at the bottom of the contact page
 ---
 ### User 3
  Business-As a business, we can find out as much information as possible about the artist and their artwork. Make contact with them to see if they would be interested in working with us. Find out where they are located. View their social media accounts so that we can follow and connect with them. We can do this by:
 
 
 - Reading the small about information on the landing page
-- Viewing their artwork in the gallery, seeing the different mediums they use in the clearly identifiable different sections and see the information about the artwork by clicking on the images. 
+- Viewing their artwork in the gallery, seeing the different mediums they use in the clearly identifiable different sections and see the information about the artwork by clicking on the images
 - Reading the larger about information on the About Art By Jamie Page
 - Finding their contact details in the footer at the bottom of every page
 -Visiting the contact me page and sending them a direct email message by navigating to the contact page on the navbar or clicking on the links in the callout container or in the footer 
 - Clicking on the links in the footer to view their external social media accounts
-- View the map located at the bottom of the contact page. 
+- Viewing the map located at the bottom of the contact page
     
 ---
 ### User4- Artist(Jamie) 
 As an artist, I can see all of my best work in one place on the site allowing me to showcase what I am about and show my best artwork to employers, artists and galleries. I can do this by:
 
-- Looking at all the information displayed about myself on the about, home and gallery pages. 
+- Looking at all the information displayed about myself on the about, home and gallery pages
 - Having all the relevant information that I wanted to be displayed on the site in a clean and informative way
 
 ---
@@ -433,19 +434,19 @@ As an artist, I can see all of my best work in one place on the site allowing me
 goals have been met by the site by: 
 
 
-- Displaying all information in a clear and well-structured manner. 
+- Displaying all information in a clear and well-structured manner 
 - Providing a good clean and responsive elements which give feedback to the users
 - Displaying all relevant visual and written information to the user 
 - Giving users a way of contacting and connecting with Jamie via social media and contact information. 
-- Creating an emotional response from the user via the use of images and text. Helping to build an emotional connection with Jamie and their artwork which will help to create an audience/ following of Jamie's artwork.
- - Also includes information about Jamie’s future plan to help keep the audience updated. 
+- Creating an emotional response from the user via the use of images and text, helping to build an emotional connection with Jamie and their artwork which will help to create an audience/ following of Jamie's artwork
+ - Also includes information about Jamie’s future plan to help keep the audience updated
 
 ---
 ### Developer goals have been met by: 
 
-- Creating a professional fun and engaging website via the use of design, information and user feedback/interaction across the site. 
-- Revealing Jamie’s personality on the site through my use of colours, styles and fonts. 
-- Creating a front-end portfolio-ready website that I am proud of. 
+- Creating a professional fun and engaging website via the use of design, information and user feedback/interaction across the site
+- Revealing Jamie’s personality on the site through my use of colours, styles and fonts
+- Creating a front-end portfolio-ready website that I am proud of
 
 ---
 ### Site responsiveness and compatibility 
@@ -489,10 +490,10 @@ For the devices that didn't respond as expected. Additional media queries were c
 
 The site was tested using Lighthouse, After the initial results I improved the site in the following ways: 
 - Changed pseudo highlight from white to pink to improve contrast 
-- Compressed missed images for better performance. 
-- Removed the height of breakout images to correct the aspect ratio issue.
-- Changed h6 in the footer to h3s. 
-- Added meta description to head for better SEO. 
+- Compressed missed images for better performance 
+- Removed the height of breakout images to correct the aspect ratio issue
+- Changed h6 in the footer to h3s
+- Added meta description to head for better SEO 
 
 The finals results for the site are as follows: 
 
@@ -537,7 +538,7 @@ Here are some of the bugs that I've found and fixed throughout development:
 
 1. There was a strange _ when hovering over the Instagram logo, this was caused by a gap in front of the span.
 2. initially the logo was being displayed behind the navbar. I fixed this by adding float left.
-3. The images overlapped their containers. I fixed this by setting overlap to hidden 
+3. The images overlapped their containers. I fixed this by setting overlap to hidden.
 4. I had to use some inline CSS with the logo to change the padding-left to 4px. For some reason, it wouldn't let me if I targeted it in the style sheet so I did this.
 5. The logo image wasn't displaying correctly initially. I fixed this by correcting the file path.
 6. Because I wanted content in the Cloudflare effects, This didn't work as expected so I had to create my own overlay for the images, this fixed this issue and I removed Cloudflare effects from the site afterwards. 
@@ -557,24 +558,25 @@ To my knowledge there are no bugs left in the code!
 
 ### Code
 
-- The code for the video came from the embed video option on Vimeo.
-- Bootstrap 4 was used throughout development to make the site responsive, I used this for layout and used some of Bootstraps classes. 
-- I used Google maps generator to get the src for the map, However, I only used this for the source.
+- The code for the video came from the embed video option on Vimeo
+- Bootstrap 4 was used throughout development to make the site responsive, I used this for layout and used some of Bootstraps classes
+- I used Google maps generator to get the src for the map, However, I only used this for the source
+- I looked at the cloudflare hover effects to help me to design my own hover effect
 
 ### Content 
 
-- Written content about the artist came from the artist: Jamie Thomas.
-- Other written content came from me the developer.
+- Written content about the artist came from the artist: Jamie Thomas
+- Other written content came from me the developer
 
 ### Media 
 
-- All images and videos came from the artist: Jamie Thomas.
-- The images were edited by me the developer to prepare them for the web. I boosted contrasts and cropped them using Adobe Photoshop. 
-- Favicon was created by me using Illustrator.
+- All images and videos came from the artist: Jamie Thomas
+- The images were edited by me the developer to prepare them for the web, I boosted contrasts and cropped them using Adobe Photoshop
+- Favicon was created by me using Illustrator
 
 ### Acknowledgements 
 
 - My mentor for the amazing help and support 
 - Other students on slack for their support 
-- Code Institute for the helpful materials and support in particular tutors James and Christine.
+- Code Institute for the helpful materials and support in particular tutors James and Christine
 - Stack overflow and W3C for useful research materials 
