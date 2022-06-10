@@ -375,13 +375,23 @@ In the future the site will have a blog section for more interaction with the au
 ---
 ## Deployment
 
-### This site is deployed in git hub pages. These steps were taken on deployment
+### This site is deployed in Github pages. These steps were taken on deployment
 
 1. Login and locate the repository titled [art by jamie](https://github.com/SamHulme1/art-by-jamie).
 2. Locate the settings at the top of the repository menu. Make sure not to click the settings at the top of the page
 3. Scroll down the page, to the left you should be able to see pages under Code and Automation click pages
 4. Change the source branch from none to main using the dropdown menu
 5. Doing this will refresh the page, scroll back down and locate the link to the active page. Click the link to see the deployed site!
+
+### This site was developed using Git. Here is the development lifecycle:
+
+1. I created a new repository from using Code Institutes template
+2. In the terminal, I typed git init to initialise
+3. I created all the files and folders for the project
+4. I used the command git add . in the terminal to add the files to the repository
+5. I enter git commit and wrote a commit message in "" 
+6. For each change that I made I used the git add . and commit commands
+7. I used git push to push the changes in Git to Github
 
 ## Testing 
 
