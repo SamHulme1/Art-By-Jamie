@@ -210,9 +210,27 @@
      opacity: 0;
      user-select: none;
 }
- .gallery-images-hover:hover .image-description{
+
+.image-description-iphone {
+    display: none;
+    position: absolute;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    font-family: arvo, sans-serif;
+    letter-spacing: 1px;
+    background-color:rgba(0, 0, 0, 0.6);
+    height:2rem;
+}
+ 
+.gallery-images-hover:hover .image-description{
      opacity: 1;
 }
+
 /*section-1-oils---------------------------------------------------------------------------------- */
  #childhood-memories {
      width: inherit;
@@ -498,4 +516,12 @@
          height:100%;
     }
 }
-
+/*media screens for hover content on iphones ---------------------------------------------------------------------------------- */
+@media screen and (min-width:320px) and (max-width:414px) {
+    .gallery-images-hover:hover{
+        display: none;
+   }
+   .image-description-iphone {
+       display: block;
+   }
+}
