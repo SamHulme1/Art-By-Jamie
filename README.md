@@ -87,7 +87,7 @@ After interviewing Jamie, I determined that their goals for the site are as foll
 
 The website will feature mainly visual content,  as the audience will contain majority visual people. The other elements within the page will be straightforward, easy to use and flow nicely creating a balance between visual imagery and information. Collectors or businesses will be able to easily find contact information on the site. 
 
-The content on the pages will be easy to navigate around. There will be the navigation bar at the top which clearly labels the different areas of the website. The information on the navbar will be organised in order of user importance. As well as this text areas within the pages will give written ques to were the views should check out next. Such as “commisions are now open” There will be also be a link to the contact form in the footer as well as links to social media and contact details. All this will lead to the user having a good fluid experience on the website. 
+The content on the pages will be easy to navigate around. There will be the navigation bar at the top which clearly labels the different areas of the website. The information on the navbar will be organised in order of user importance. As well as this text areas within the pages will give written ques to were the users should check out next. Such as “commisions are now open” There will be also be a link to the contact form in the footer as well as links to social media and contact details. All this will lead to the user having a good fluid experience on the website. 
 
 Art by Jamie is a great site for it’s audience because it displays information relevant to the users expectations, all three audiences have well defined and clear pathways that they can take to reach the information they need. The website is structured in a way that priorities the importance of information to to the user. There are also multiple pathways that users can take to reach their end goals(cta points). This makes the site informal an increases user engagement with the different pages.
 
@@ -234,7 +234,7 @@ The images on the site all came from Jamie, I choice to use ‘my creepy childre
 ---
 ### Styling: 
 
-All the containers appart from the maps were given a border radius, creating a slight curve that was move aestheic, the border styles were set to dashed with a 3px size to create the impression that they could be cut out or had been stuck in. This creates a nice consistent art book style. The maps were set to container fluid because I wanted them to stand out and contrast against the other containers. There is also a breakout image on each page to help to break up visual and written information. This results in a more aesthetic, and fluid website. I decided not to include a map on the gallery page because I didn’t want it to distract the user from the visual information in the gallery. I added a pseudo to the images in the gallery to limit the amount of written text on the page. I added the content for each pseudo as names of the pieces so that the user can click on the images to view their details. I decided against adding this to the larger images on the index and about page because I felt that it was too distracting for the user. 
+All the containers appart from the maps were given a border radius, creating a slight curve that was move aestheic, the border styles were set to dashed with a 3px size to create the impression that they could be cut out or had been stuck in. This creates a nice consistent art book style. The map was set to container fluid because I wanted it to stand out and contrast against the other containers. There is also a breakout image on each page to help to break up visual and written information. This results in a more aesthetic, and fluid website. I added a pseudo to the images in the gallery to limit the amount of written text on the page. I added the content for each pseudo as names of the pieces so that the user can click on the images to view their details. I decided against adding this to the larger images on the index and about page because I felt that it was too distracting for the user. 
 
 ---
 ## WireFrames: 
@@ -350,9 +350,7 @@ In the future the site will have blog section for more interaction with the audi
 4. [Balsamiq:](https://balsamiq.com/wireframes/?gclid=CjwKCAjwkYGVBhArEiwA4sZLuGTzEexF0Kcpb2hzGS4R6E-5vcxNOjKv1cIAJrPG4yCImcQxZ7tIaxoCN7EQAvD_BwE) To create the wireframes for the website.
 
 5. [Bootstrap:](https://getbootstrap.com/) To add responsiveness to the website so that it performs well on all devices.
-
-6. [CLOUDFLARE:](https://cdnjs.cloudflare.com/) To create the pseudo elements on the gallery images. 
-
+ 
 7. [TinyPNG:](https://tinypng.com/) To compress the photos for the website so that it has better performance. 
 
 8. [Google map generator:](https://google-map-generator.com/) used to get the src for the map of wrexham, for some reason I couldn’t get the src from google maps directly. I only used it to get the src not the code. 
@@ -399,7 +397,7 @@ As a gallery we can find information about who Jamie is, view their art style fi
 - Finding their contact details in the footer at the bottom of every page
 - Visiting the contact me page and sending them a direct email message by navigating to the contact page on the navbar or clicking on the links in the callout container or in the footer 
 - Clicking on the links in the footer to view their external social media accounts
-- View the map located at the bottom of every page apart from the gallery. 
+- View the map located at the bottom of the contact page. 
 ---
 ### User 3
  Business-As a business, we can found out as much information as possible about the artist and their artwork. Make contact with them to see if they would be interested in working with us. Find out where they are located. View their social media accounts so that we can follow and connect with them. We can do this by:
@@ -411,7 +409,7 @@ As a gallery we can find information about who Jamie is, view their art style fi
 - Finding their contact details in the footer at the bottom of every page
 -Visiting the contact me page and sending them a direct email message by navigating to the contact page on the navbar or clicking on the links in the callout container or in the footer 
 - Clicking on the links in the footer to view their external social media accounts
-- View the map located at the bottom of every page apart from the gallery. 
+- View the map located at the bottom of the contact page. 
 	
 ---
 ### User4- Artist(Jamie) 
@@ -501,6 +499,7 @@ The final validator results can be seen here:
 ![gallery-validation](assets/img/readme-images/gallery-validation.png)
 ![about-validation](assets/img/readme-images/about-validation.png)
 ![contact-validation](assets/img/readme-images/contact-validation.png)
+![css-validation](assets/img/readme-images/css-validation.png)
 
 After validation, I fixed the following errors:
 - Removed loose tags
@@ -518,8 +517,8 @@ After validation, I fixed the following errors:
 ---
 ### Browser testing 
 
-The site has been tested on Chrome, Microsoft Edge, Opera and Firefox
-
+The site has been tested on Chrome, Microsoft Edge, Opera, Firefox and Safari. 
+The site performed well on all browsers, however, there was an issue with the text being selected on the hover effects in Safari. 
 ## Bugs 
 Here are some of the bugs that i've found and fixed throught development: 
 
@@ -531,6 +530,7 @@ Here are some of the bugs that i've found and fixed throught development:
 6. Becasue I wanted content in the Cloudflare effects, This didn't work as expected so I had to create my own overlay for the images, this fixed this issue and I removed Cloudflare effects from the site afterwards. 
 7. On smaller screens the gallery images didn't display how I wanted them to due to the set height of 300px. I fixed this by targeting the image ids and the gallery image class so that the height could be set to 100%. This resulted in a nice clean layout for smallerscreens. 
 8. On really small screens the links in the navbar would spill out. I fixed this by targeting them in media screen to scale them down. 
+9. In the gallery the hover effect would flicker when the element was hovered over instead of displaying correctly. I fixed this by using opacity on the overlay instead of display. 
 
 
 ### Bugs Left in Code:
