@@ -352,7 +352,7 @@ In the future the site will have a blog section for more interaction with the au
 
 5. [Bootstrap](https://getbootstrap.com/) To add responsiveness to the website so that it performs well on all devices
  
-7. [Tinypng](https://tinypng.com/) To compress the photos for the website so that it has better performance 
+7. [Tinypng](https://tinypng.com/) To compress the photos for the website so that it has better performance, however, I made them as small as I could whilst still keeping as much detail as I could.  
 
 8. [Google map generator](https://google-map-generator.com/) used to get the src for the map of Wrexham, for some reason I couldn’t get the src from google maps directly, I only used it to get the src, not the code 
 

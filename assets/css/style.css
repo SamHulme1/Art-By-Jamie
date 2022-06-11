@@ -460,7 +460,6 @@
 }
  @media screen and (max-width: 253px) {
      #active {
-         color: #E9A2CC;
          font-size: 20px;
     }
      .navbar li a {
@@ -557,3 +556,36 @@
      }
  
  }
+
+ @media(min-width:2000px) {
+    .navbar li a {
+        font-size: 80px;
+   }
+    .heading-one{
+        font-size: 80px;
+   }
+    .heading-2{
+        font-size: 80px;
+   }
+
+   .heading-2-form{
+    font-size: 80px;
+    }
+    .paragraph-text{
+        font-size: 60px;
+   }
+    .icon{
+        font-size: 80px;
+   }
+   #active {
+    font-size: 100px;
+   }
+    .submit-button {
+    width: 250px;
+    height:135px;
+   }
+    .why-contact{
+        width:50px;
+        height:50px;
+    }
+}
