@@ -561,6 +561,8 @@ Here are some of the bugs that I've found and fixed throughout development:
 
     [stack-overflow-troubleshoot](https://l.facebook.com/l.php?u=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F35187970%2Fcss-hover-not-working-on-ios-safari-and-chrome%3Ffbclid%3DIwAR2LnfUuZXMa1ypDcDKQRkeHj3Xh5LRVlyI2v-AEDpEh2XUxXH_SwLBLEf4&h=AT1-XO564Yxx5PDvHjPx6Hepzw2QW_avU4MBizdx-A8yC7he9xZrVZq-m6EpxK2-ti9gQIJKC4wSu1ca_wRe91_xOp8mymyoOj8HFZMZTVXQdjuHuJVXSLcU5R5CHlqvq-N2Qw)
 
+11. I had a few issues with the gallery images. They would stretch slightly because of their parent container but only slightly. I fixed this by applying media screens to target the container on multiple devices. I also wanted to make sure that they weren't cropped too badly which is why some have object fit and others don't. The ones that don't, I thought too much of the image was lost when applying this style so I left it out.  
+
 ### Bugs Left in Code:
 To my knowledge there are no bugs left in the code!
 
